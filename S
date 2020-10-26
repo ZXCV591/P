@@ -2834,7 +2834,7 @@ http://iptvtree.net:8080/F11501/bb37235d/173160
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/e/eb/Manchester_City_FC_badge.svg/410px-Manchester_City_FC_badge.svg.png" group-title="MANCHESTER  LINE",IPL 2020 MI VS CSK
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/e/eb/Manchester_City_FC_badge.svg/410px-Manchester_City_FC_badge.svg.png" group-title="MANCHESTER  LINE",ITV 1
 http://links.iptvlogin.com:80/live/Javedali/javedali33a/242508.ts
 #EXTINF:-1,ITV 2
 http://links.iptvlogin.com:80/live/Javedali/javedali33a/210.ts
