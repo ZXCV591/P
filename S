@@ -2835,3 +2835,566 @@ http://iptvtree.net:8080/F11501/bb37235d/173160
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/e/eb/Manchester_City_FC_badge.svg/410px-Manchester_City_FC_badge.svg.png" group-title="MANCHESTER  LINE",IPL 2020 MI VS CSK
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/242508.ts
+#EXTINF:-1,ITV 2
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/210.ts
+#EXTINF:-1,ITV 3
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/211.ts
+#EXTINF:-1,ITV 4
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/212.ts
+#EXTINF:-1,ITV LONDON
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/209.ts
+#EXTINF:-1,ITV BE
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/185.ts
+#EXTINF:-1,BBC 1 (Northern Ireland) | SD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26905.ts
+#EXTINF:-1,London LIVE
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27157.ts
+#EXTINF:-1,BBC 1
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26902.ts
+#EXTINF:-1,BBC Parliament
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/106.ts
+#EXTINF:-1,BBC 2 (Wales) SD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/111.ts
+#EXTINF:-1,BBC 2
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/153518.ts
+#EXTINF:-1,BBC 3
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26903.ts
+#EXTINF:-1,BBC 4
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/103.ts
+#EXTINF:-1,UK: CBBC
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27110.ts
+#EXTINF:-1,Sky News
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27171.ts
+#EXTINF:-1,SKY SPORTS ACTION HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27087.ts
+#EXTINF:-1,SKY SPORTS ARENA HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27090.ts
+#EXTINF:-1,SKY SPORTS CRICKET
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27093.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET (BACKUP)
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/242617.ts
+#EXTINF:-1,SKY SPORTS F1
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27094.ts
+#EXTINF:-1,SKY SPORTS FOOTBALL
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27095.ts
+#EXTINF:-1,SKY SPORTS GOLF
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27096.ts
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27097.ts
+#EXTINF:-1,Sky Sports Premier League
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/158439.ts
+#EXTINF:-1,SKY SPORTS MIX
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27099.ts
+#EXTINF:-1,UK: VIRGIN SPORT IRELAND
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/242499.ts
+#EXTINF:-1,SKY SPORTS RACING
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27098.ts
+#EXTINF:-1,UK:  Eurosport 1 LOW
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/3279.ts
+#EXTINF:-1,beIN Sports 1
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/14239.ts
+#EXTINF:-1,beIN Sports 10
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/14248.ts
+#EXTINF:-1,beIN Sports 11
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/37893.ts
+#EXTINF:-1,UK: beIN Sports 12 | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/14249.ts
+#EXTINF:-1,beIN Sports 2
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/14240.ts
+#EXTINF:-1,beIN Sports 3
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/14241.ts
+#EXTINF:-1,beIN Sports 4
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/14242.ts
+#EXTINF:-1,beIN Sports 5
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/14243.ts
+#EXTINF:-1,beIN Sports 6
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/14244.ts
+#EXTINF:-1,beIN Sports 7
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/14245.ts
+#EXTINF:-1,beIN Sports 8
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/14246.ts
+#EXTINF:-1,beIN Sports 9
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/14247.ts
+#EXTINF:-1,beIN Sports En Espanyol
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/14250.ts
+#EXTINF:-1,beIN Sports La Liga
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/14251.ts
+#EXTINF:-1,beIN Sports USA
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/14238.ts
+#EXTINF:-1,BT SPORT 1
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/69.ts
+#EXTINF:-1,BT SPORT 2
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27040.ts
+#EXTINF:-1,BT SPORT 3
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27041.ts
+#EXTINF:-1,BT Sport ESPN
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/70.ts
+#EXTINF:-1,BT SPORT EXTRA 1
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27044.ts
+#EXTINF:-1,BT SPORT EXTRA 2
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27045.ts
+#EXTINF:-1,BT SPORT EXTRA 3
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27046.ts
+#EXTINF:-1,BT SPORT EXTRA 4
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27047.ts
+#EXTINF:-1,BT SPORT EXTRA 5
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27048.ts
+#EXTINF:-1,UK: Eir Sport 2
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27050.ts
+#EXTINF:-1,UK: Eir Sport 1 HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27051.ts
+#EXTINF:-1,UK: Eir Sport 2
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27052.ts
+#EXTINF:-1,UK: Eir Sport 2 HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27053.ts
+#EXTINF:-1,Eurosport 1
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27056.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27055.ts
+#EXTINF:-1,Eurosport 2 HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27058.ts
+#EXTINF:-1,UK: Eurosport 2 SD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/3280.ts
+#EXTINF:-1,UK: FreeSports
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27063.ts
+#EXTINF:-1,UK: FreeSports HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27064.ts
+#EXTINF:-1,UK: FREESPORTS | (Backup)
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/73.ts
+#EXTINF:-1,UK: Motors TV
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27067.ts
+#EXTINF:-1,VIP PREMIER SPORTS 1
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27104.ts
+#EXTINF:-1,UK: PREMIER SPORTS 1 HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27456.ts
+#EXTINF:-1,UK: PREMIER SPORTS 2
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27105.ts
+#EXTINF:-1,VIP PREMIER SPORTS 2
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/74.ts
+#EXTINF:-1,UK: CNBC
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27162.ts
+#EXTINF:-1,UK: CNN
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27164.ts
+#EXTINF:-1,UK: CNN HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27165.ts
+#EXTINF:-1,UK: Euro News | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/109.ts
+#EXTINF:-1,UK: Euronews
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27166.ts
+#EXTINF:-1,UK: RT News
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/38913.ts
+#EXTINF:-1,RTE News Now
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/225.ts
+#EXTINF:-1,VIP RTE 1
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/153513.ts
+#EXTINF:-1,VIP RTE 2
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/153514.ts
+#EXTINF:-1,Sky News Arabia
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27172.ts
+#EXTINF:-1,UK: Sky One
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26954.ts
+#EXTINF:-1,UK: Sky Arts HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26952.ts
+#EXTINF:-1,Sky Arts
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/172.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26953.ts
+#EXTINF:-1,UK: Sky Atlantic | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/188.ts
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/139.ts
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26978.ts
+#EXTINF:-1,UK: Sky Cinema Action & Adventure HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26979.ts
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26980.ts
+#EXTINF:-1,UK: Sky Cinema Comedy (Backup)
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/140.ts
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26982.ts
+#EXTINF:-1,UK: Sky Cinema Disney
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/141.ts
+#EXTINF:-1,UK: Sky Cinema Disney
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26984.ts
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/142.ts
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26986.ts
+#EXTINF:-1,UK: Sky Cinema Family
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/143.ts
+#EXTINF:-1,UK: Sky Cinema Family
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26988.ts
+#EXTINF:-1,UK: Sky Cinema Greats
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/144.ts
+#EXTINF:-1,UK: Sky Cinema Greats
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26991.ts
+#EXTINF:-1,UK: Sky Cinema Greats HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26992.ts
+#EXTINF:-1,UK: Sky Cinema Hits
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/145.ts
+#EXTINF:-1,UK: Sky Cinema Hits
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26993.ts
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/146.ts
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26996.ts
+#EXTINF:-1,UK: Sky Cinema Sci-fi
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/147.ts
+#EXTINF:-1,UK: Sky Cinema Sci-Fi & Horror HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26999.ts
+#EXTINF:-1,UK: Sky Cinema Select HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27001.ts
+#EXTINF:-1,UK: Sky Cinema Thriller
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/149.ts
+#EXTINF:-1,UK: Sky Movies Action & Adventure FHD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27004.ts
+#EXTINF:-1,UK: Sky Movies Comedy FHD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27007.ts
+#EXTINF:-1,UK: Sky Movies Disney FHD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27013.ts
+#EXTINF:-1,UK: Sky Movies Drama & Romance FHD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27016.ts
+#EXTINF:-1,UK: Sky Movies Family FHD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27019.ts
+#EXTINF:-1,UK: Sky Movies Greats FHD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27022.ts
+#EXTINF:-1,UK: Sky Movies Premiere FHD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27027.ts
+#EXTINF:-1,UK: Sky Movies Select
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27033.ts
+#EXTINF:-1,Sky 1
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/170.ts
+#EXTINF:-1,UK: Sky 2
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/171.ts
+#EXTINF:-1,UK: 3E HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26894.ts
+#EXTINF:-1,UK: 4seven
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26895.ts
+#EXTINF:-1,UK: 4 Seven | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/75.ts
+#EXTINF:-1,UK: 5 Spike
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26896.ts
+#EXTINF:-1,UK: 5 Spike UK
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26897.ts
+#EXTINF:-1,UK: 5 USA
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26899.ts
+#EXTINF:-1,UK: Al Jazeera English HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27154.ts
+#EXTINF:-1,UK: Alibi
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26901.ts
+#EXTINF:-1,UK: Alibi | UHD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/190.ts
+#EXTINF:-1,UK: AMC | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/159.ts
+#EXTINF:-1,UK: Animal Planet
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27126.ts
+#EXTINF:-1,Animal Planet
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/122.ts
+#EXTINF:-1,UK: At The Races
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27036.ts
+#EXTINF:-1,UK: At The Races HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27037.ts
+#EXTINF:-1,Baby TV
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/177.ts
+#EXTINF:-1,Baby TV SD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27106.ts
+#EXTINF:-1,UK: BET
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26906.ts
+#EXTINF:-1,UK: BET | SD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/166.ts
+#EXTINF:-1,UK: Blaze
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/15904.ts
+#EXTINF:-1,UK: Boomerang
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/89.ts
+#EXTINF:-1,UK: Boomerang
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27107.ts
+#EXTINF:-1,UK: Box Hits
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/157.ts
+#EXTINF:-1,UK: BOX NATION
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27038.ts
+#EXTINF:-1,Box Nation
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/78.ts
+#EXTINF:-1,UK: BOX OFFICE 1 HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26969.ts
+#EXTINF:-1,UK: BOX OFFICE 2
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26970.ts
+#EXTINF:-1,UK: BOX OFFICE 2 HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26971.ts
+#EXTINF:-1,UK: BOX OFFICE 3 HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26973.ts
+#EXTINF:-1,UK: BOX OFFICE 4 HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26975.ts
+#EXTINF:-1,UK: BOX OFFICE 5 HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26977.ts
+#EXTINF:-1,Cartoon Network
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/114.ts
+#EXTINF:-1,Cartoonito
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/120.ts
+#EXTINF:-1,Cbeebies
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/121.ts
+#EXTINF:-1,UK: CBS ACTION
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/183.ts
+#EXTINF:-1,UK: CBS Action
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26907.ts
+#EXTINF:-1,UK: CBS Drama
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26908.ts
+#EXTINF:-1,UK: CBS DRAMA | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/138.ts
+#EXTINF:-1,UK: CBS Reality
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/176.ts
+#EXTINF:-1,UK: Challenge
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/15902.ts
+#EXTINF:-1,UK: Channel 4
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/164.ts
+#EXTINF:-1,UK: Channel 4
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26910.ts
+#EXTINF:-1,UK: Channel 5
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/165.ts
+#EXTINF:-1,UK: Channel 5
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26911.ts
+#EXTINF:-1,UK: COMEDY CENTRAL
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/131.ts
+#EXTINF:-1,UK: Crime & Investigation
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27129.ts
+#EXTINF:-1,UK: Cruise1st TV
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26915.ts
+#EXTINF:-1,DAVE JA VU
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26918.ts
+#EXTINF:-1,Dave
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/169.ts
+#EXTINF:-1,Discovery Channel
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27131.ts
+#EXTINF:-1,UK: Discovery History
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/127.ts
+#EXTINF:-1,Discovery History
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27132.ts
+#EXTINF:-1,Discovery Science
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27133.ts
+#EXTINF:-1,Discovery +1
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/129.ts
+#EXTINF:-1,Discovery Shed
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/128.ts
+#EXTINF:-1,Discovery Turbo
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27135.ts
+#EXTINF:-1,Disney Channel
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/115.ts
+#EXTINF:-1,Disney JR
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/116.ts
+#EXTINF:-1,Disney XD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/117.ts
+#EXTINF:-1,UK: DMAX
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26917.ts
+#EXTINF:-1,DMAX
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/136.ts
+#EXTINF:-1,UK: Drama
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/137.ts
+#EXTINF:-1,UK: Drama
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26919.ts
+#EXTINF:-1,E! Entertainment
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/192.ts
+#EXTINF:-1,UK: E4
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26921.ts
+#EXTINF:-1,UK: E4 
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/178.ts
+#EXTINF:-1,UK: Eden
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26922.ts
+#EXTINF:-1,UK: Fightbox FHD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27062.ts
+#EXTINF:-1,UK: Film 4
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/175.ts
+#EXTINF:-1,UK: Food Network
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/193.ts
+#EXTINF:-1,UK: Food Network
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26925.ts
+#EXTINF:-1,UK: FOX
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26923.ts
+#EXTINF:-1,GOLD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26926.ts
+#EXTINF:-1,UK: H2 | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/222.ts
+#EXTINF:-1,UK: History
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27137.ts
+#EXTINF:-1,UK: History | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/125.ts
+#EXTINF:-1,UK: Home
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26928.ts
+#EXTINF:-1,UK: Horror Channel
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26930.ts
+#EXTINF:-1,UK: Horror Channel 1 | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/194.ts
+#EXTINF:-1,UK: ID 
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/187.ts
+#EXTINF:-1,UK: Islam TV UK
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27214.ts
+#EXTINF:-1,UK: Kiss TV
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27141.ts
+#EXTINF:-1,UK: LFC Liverpool TV
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/217.ts
+#EXTINF:-1,UK: LFC TV
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/112.ts
+#EXTINF:-1,UK: Lifetime
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26935.ts
+#EXTINF:-1,UK: Lifetime | UHD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/134.ts
+#EXTINF:-1,UK: Magic TV
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/213.ts
+#EXTINF:-1,UK: More 4
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/229.ts
+#EXTINF:-1,UK: MTV
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/196.ts
+#EXTINF:-1,UK: MTV
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26939.ts
+#EXTINF:-1,UK: MTV Base
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27143.ts
+#EXTINF:-1,UK: MTV Base (Backup)
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/200.ts
+#EXTINF:-1,UK: MTV Classic
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27144.ts
+#EXTINF:-1,UK: MTV Classic | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/201.ts
+#EXTINF:-1,UK: MTV Hits
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27145.ts
+#EXTINF:-1,UK: MTV Hits
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/203.ts
+#EXTINF:-1,UK: MTV Music | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/204.ts
+#EXTINF:-1,UK: MTV Rocks
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27146.ts
+#EXTINF:-1,UK: MUTV
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/208.ts
+#EXTINF:-1,Nat Geo Wild
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27138.ts
+#EXTINF:-1,Nat Geo
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27139.ts
+#EXTINF:-1,Nick Jr
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27117.ts
+#EXTINF:-1,UK: Nick Jr Peppa
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27118.ts
+#EXTINF:-1,Nick Jr Too
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27120.ts
+#EXTINF:-1,Nickelodeon
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/119.ts
+#EXTINF:-1,UK: Nicktoons
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27123.ts
+#EXTINF:-1,Paramount
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/235.ts
+#EXTINF:-1,UK: PICK TV
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/231.ts
+#EXTINF:-1,UK: PICK TV
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/240.ts
+#EXTINF:-1,UK: POP Max
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/239.ts
+#EXTINF:-1,UK: Quest RED
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/162.ts
+#EXTINF:-1,UK: Quest | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/236.ts
+#EXTINF:-1,UK: QVC
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26940.ts
+#EXTINF:-1,UK: QVC Beauty
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26942.ts
+#EXTINF:-1,UK: QVC Extra
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26944.ts
+#EXTINF:-1,UK: Racing TV (Backup)
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/77.ts
+#EXTINF:-1,UK: Racing SD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27069.ts
+#EXTINF:-1,UK: Racing HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27070.ts
+#EXTINF:-1,RTE 1
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/218.ts
+#EXTINF:-1,RTE 2
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/219.ts
+#EXTINF:-1,RTE Jr
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/224.ts
+#EXTINF:-1,UK: S4C HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26951.ts
+#EXTINF:-1,UK: Sony Movies Action
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27034.ts
+#EXTINF:-1,UK: Sony TV Asia HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/87.ts
+#EXTINF:-1,UK: Sony TV | UHD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/82.ts
+#EXTINF:-1,UK: Spike | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/226.ts
+#EXTINF:-1,UK: Star Gold
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/83.ts
+#EXTINF:-1,Gold (Backup)
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27246.ts
+#EXTINF:-1,UK: SYFY
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/151.ts
+#EXTINF:-1,UK: TCM
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27147.ts
+#EXTINF:-1,UK: TG4 
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/234.ts
+#EXTINF:-1,UK: Tiny POP
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27125.ts
+#EXTINF:-1,UK: TLC  | UHD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/221.ts
+#EXTINF:-1,UK: Travel Channel
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/167.ts
+#EXTINF:-1,UK: Travel Channel
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26958.ts
+#EXTINF:-1,UK: Tru TV HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26957.ts
+#EXTINF:-1,UK: True Movies
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/152.ts
+#EXTINF:-1,UK: UFC NIGHT PASS
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27100.ts
+#EXTINF:-1,UK: UFC Fight Pass HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27101.ts
+#EXTINF:-1,UK: Universal
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/15903.ts
+#EXTINF:-1,UK: VH1 | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/168.ts
+#EXTINF:-1,UK: Virgin Media 1 HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/34372.ts
+#EXTINF:-1,UK: Virgin Media 2 HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26963.ts
+#EXTINF:-1,UK: Watch
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26964.ts
+#EXTINF:-1,Watch
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/160.ts
+#EXTINF:-1,UK: WWE Raw Network
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27102.ts
+#EXTINF:-1,UK: WWE Raw Network HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/27103.ts
+#EXTINF:-1,UK: YESTERDAY
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/182.ts
+#EXTINF:-1,UK: Yesterday
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/26965.ts
+#EXTINF:-1,UK: ZEE TV | HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/242.ts
+#EXTINF:-1,UK | Now 90s
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/158442.ts
+#EXTINF:-1,UK Really
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/153856.ts
+#EXTINF:-1,UK Sky Arts FHD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/153858.ts
+#EXTINF:-1,UK Sky Witness
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/153857.ts
+#EXTINF:-1,UK SYFY
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/153855.ts
+#EXTINF:-1,UK ZEE AFLAM
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/153881.ts
+#EXTINF:-1,UK ZEE ALWAN
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/153882.ts
+#EXTINF:-1,UK: RTE NEWS
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/259418.ts
+#EXTINF:-1,UK: Virgin Media 3 HD
+http://links.iptvlogin.com:80/live/Javedali/javedali33a/259419.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
