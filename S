@@ -3482,7 +3482,23 @@ http://m3u.area51iptv.site:7899/gauravverma6745/YB4PLdTswb/16084
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK IN INDIA  LINE",UK - B4U PLUS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK IN INDIA  LINE",UK : COLORS FHD
+
+http://m3u.area51iptv.site:7899/gauravverma6745/YB4PLdTswb/54397
+#EXTINF:-1,UK: Star Gold FHD
+http://m3u.area51iptv.site:7899/gauravverma6745/YB4PLdTswb/54396
+#EXTINF:-1,UK: Star Plus FHD
+http://m3u.area51iptv.site:7899/gauravverma6745/YB4PLdTswb/54395
+#EXTINF:-1,UK: Zee Cinema FHD
+http://m3u.area51iptv.site:7899/gauravverma6745/YB4PLdTswb/54394
+#EXTINF:-1,UK: Sony Max FHD
+http://m3u.area51iptv.site:7899/gauravverma6745/YB4PLdTswb/54393
+#EXTINF:-1,UK: Sony Tv Asia FHD
+http://m3u.area51iptv.site:7899/gauravverma6745/YB4PLdTswb/54392
+
+
+
+#EXTINF:-1,UK - B4U PLUS
 http://tvservice.pro:80/9A0F20D602D7/2067936309/72515
 #EXTINF:-1,IN|UK - COLORS CINEPLEX
 http://tvservice.pro:80/9A0F20D602D7/2067936309/72512
