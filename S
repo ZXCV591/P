@@ -2865,279 +2865,279 @@ http://iptvmedia.live:8080/test-532fbe/39e2/173160
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/e/eb/Manchester_City_FC_badge.svg/410px-Manchester_City_FC_badge.svg.png" group-title="MANCHESTER  LINE",UK BBC ONE
 
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1134
+http://myislandtv.xyz:8080/Saga/shah/1134
 #EXTINF:-1,UK-BBC Two
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1133
+http://myislandtv.xyz:8080/Saga/shah/1133
 #EXTINF:-1,UK-ITV
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1132
+http://myislandtv.xyz:8080/Saga/shah/1132
 #EXTINF:-1,UK-Channel 4
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1131
+http://myislandtv.xyz:8080/Saga/shah/1131
 #EXTINF:-1,UK-Channel 5
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1130
+http://myislandtv.xyz:8080/Saga/shah/1130
 #EXTINF:-1,UK-Sky 1
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1129
+http://myislandtv.xyz:8080/Saga/shah/1129
 #EXTINF:-1,UK-Sky Witness
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1126
+http://myislandtv.xyz:8080/Saga/shah/1126
 #EXTINF:-1,UK-Sky Atlantic
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1127
+http://myislandtv.xyz:8080/Saga/shah/1127
 #EXTINF:-1,UK-Sky Crime
-http://myislandtv.xyz:8080/Rishikesh/Dixit/9625
+http://myislandtv.xyz:8080/Saga/shah/9625
 #EXTINF:-1,UK-W
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1107
+http://myislandtv.xyz:8080/Saga/shah/1107
 #EXTINF:-1,UK-Gold
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1109
+http://myislandtv.xyz:8080/Saga/shah/1109
 #EXTINF:-1,UK-Dave
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1113
+http://myislandtv.xyz:8080/Saga/shah/1113
 #EXTINF:-1,UK-Comedy Central
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1116
+http://myislandtv.xyz:8080/Saga/shah/1116
 #EXTINF:-1,UK-Sky Comedy
-http://myislandtv.xyz:8080/Rishikesh/Dixit/50926
+http://myislandtv.xyz:8080/Saga/shah/50926
 #EXTINF:-1,UK-Eden
-http://myislandtv.xyz:8080/Rishikesh/Dixit/5610
+http://myislandtv.xyz:8080/Saga/shah/5610
 #EXTINF:-1,UK-SyFy
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1108
+http://myislandtv.xyz:8080/Saga/shah/1108
 #EXTINF:-1,UK-ITV 2
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1125
+http://myislandtv.xyz:8080/Saga/shah/1125
 #EXTINF:-1,UK-ITV 3
-http://myislandtv.xyz:8080/Rishikesh/Dixit/3831
+http://myislandtv.xyz:8080/Saga/shah/3831
 #EXTINF:-1,UK-ITV 4
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1124
+http://myislandtv.xyz:8080/Saga/shah/1124
 #EXTINF:-1,UK-Fox
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1110
+http://myislandtv.xyz:8080/Saga/shah/1110
 #EXTINF:-1,UK-Comedy Central Extra
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1115
+http://myislandtv.xyz:8080/Saga/shah/1115
 #EXTINF:-1,UK-5 Star
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1118
+http://myislandtv.xyz:8080/Saga/shah/1118
 #EXTINF:-1,UK-Home & Health
-http://myislandtv.xyz:8080/Rishikesh/Dixit/5611
+http://myislandtv.xyz:8080/Saga/shah/5611
 #EXTINF:-1,UK-ITV BE
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1123
+http://myislandtv.xyz:8080/Saga/shah/1123
 #EXTINF:-1,UK-E4
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1121
+http://myislandtv.xyz:8080/Saga/shah/1121
 #EXTINF:-1,UK-More 4
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1122
+http://myislandtv.xyz:8080/Saga/shah/1122
 #EXTINF:-1,UK-4Seven
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1120
+http://myislandtv.xyz:8080/Saga/shah/1120
 #EXTINF:-1,UK-5 USA
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1117
+http://myislandtv.xyz:8080/Saga/shah/1117
 #EXTINF:-1,UK-Really
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1105
+http://myislandtv.xyz:8080/Saga/shah/1105
 #EXTINF:-1,UK-Drama
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1112
+http://myislandtv.xyz:8080/Saga/shah/1112
 #EXTINF:-1,UK-Challenge
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1114
+http://myislandtv.xyz:8080/Saga/shah/1114
 #EXTINF:-1,UK-Sky 2
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1128
+http://myislandtv.xyz:8080/Saga/shah/1128
 #EXTINF:-1,UK-AMC
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1111
+http://myislandtv.xyz:8080/Saga/shah/1111
 #EXTINF:-1,UK-Alibi
-http://myislandtv.xyz:8080/Rishikesh/Dixit/4695
+http://myislandtv.xyz:8080/Saga/shah/4695
 #EXTINF:-1,UK-TLC
-http://myislandtv.xyz:8080/Rishikesh/Dixit/4709
+http://myislandtv.xyz:8080/Saga/shah/4709
 #EXTINF:-1,UK-Quest
-http://myislandtv.xyz:8080/Rishikesh/Dixit/4710
+http://myislandtv.xyz:8080/Saga/shah/4710
 #EXTINF:-1,UK-Universal
-http://myislandtv.xyz:8080/Rishikesh/Dixit/7392
+http://myislandtv.xyz:8080/Saga/shah/7392
 #EXTINF:-1,UK-Discovery Channel
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1101
+http://myislandtv.xyz:8080/Saga/shah/1101
 #EXTINF:-1,UK-Nat Geo
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1104
+http://myislandtv.xyz:8080/Saga/shah/1104
 #EXTINF:-1,UK-History
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1095
+http://myislandtv.xyz:8080/Saga/shah/1095
 #EXTINF:-1,UK-Investigation Discovery
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1097
+http://myislandtv.xyz:8080/Saga/shah/1097
 #EXTINF:-1,UK-Yesterday
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1106
+http://myislandtv.xyz:8080/Saga/shah/1106
 #EXTINF:-1,UK-Crime & Investigation
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1096
+http://myislandtv.xyz:8080/Saga/shah/1096
 #EXTINF:-1,UK-Discovery Turbo
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1098
+http://myislandtv.xyz:8080/Saga/shah/1098
 #EXTINF:-1,UK-Animal Planet
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1102
+http://myislandtv.xyz:8080/Saga/shah/1102
 #EXTINF:-1,UK-H2
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1094
+http://myislandtv.xyz:8080/Saga/shah/1094
 #EXTINF:-1,UK-Nat Geo Wild
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1103
+http://myislandtv.xyz:8080/Saga/shah/1103
 #EXTINF:-1,UK-Discovery History
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1100
+http://myislandtv.xyz:8080/Saga/shah/1100
 #EXTINF:-1,UK-Discovery Science
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1099
+http://myislandtv.xyz:8080/Saga/shah/1099
 #EXTINF:-1,UK-Discovery Shed
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1093
+http://myislandtv.xyz:8080/Saga/shah/1093
 #EXTINF:-1,UK-Sky Cinema Premier
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1092
+http://myislandtv.xyz:8080/Saga/shah/1092
 #EXTINF:-1,UK-Sky Cinema Hits
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1085
+http://myislandtv.xyz:8080/Saga/shah/1085
 #EXTINF:-1,UK-Sky Cinema Disney
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1087
+http://myislandtv.xyz:8080/Saga/shah/1087
 #EXTINF:-1,UK-Sky Cinema Action
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1091
+http://myislandtv.xyz:8080/Saga/shah/1091
 #EXTINF:-1,UK-Sky Cinema Comedy
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1089
+http://myislandtv.xyz:8080/Saga/shah/1089
 #EXTINF:-1,UK-Sky Cinema Crime & Thriller
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1088
+http://myislandtv.xyz:8080/Saga/shah/1088
 #EXTINF:-1,UK-Sky Cinema Greats
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1084
+http://myislandtv.xyz:8080/Saga/shah/1084
 #EXTINF:-1,UK-Sky Cinema Sci-Fi & Horror
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1083
+http://myislandtv.xyz:8080/Saga/shah/1083
 #EXTINF:-1,UK-Sky Cinema Family
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1086
+http://myislandtv.xyz:8080/Saga/shah/1086
 #EXTINF:-1,UK-Sky Cinema Drama
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1090
+http://myislandtv.xyz:8080/Saga/shah/1090
 #EXTINF:-1,UK- Sky Cinema Select
-http://myislandtv.xyz:8080/Rishikesh/Dixit/5630
+http://myislandtv.xyz:8080/Saga/shah/5630
 #EXTINF:-1,UK-Film 4
-http://myislandtv.xyz:8080/Rishikesh/Dixit/4696
+http://myislandtv.xyz:8080/Saga/shah/4696
 #EXTINF:-1,UK-TCM
-http://myislandtv.xyz:8080/Rishikesh/Dixit/4705
+http://myislandtv.xyz:8080/Saga/shah/4705
 #EXTINF:-1,UK-Sky Sports Main Event
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1072
+http://myislandtv.xyz:8080/Saga/shah/1072
 #EXTINF:-1,UK-Sky Sports Premier League
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1069
+http://myislandtv.xyz:8080/Saga/shah/1069
 #EXTINF:-1,UK-Sky Sports Football
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1074
+http://myislandtv.xyz:8080/Saga/shah/1074
 #EXTINF:-1,UK-Sky Sports Cricket
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1076
+http://myislandtv.xyz:8080/Saga/shah/1076
 #EXTINF:-1,UK-Sky Sports Golf
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1073
+http://myislandtv.xyz:8080/Saga/shah/1073
 #EXTINF:-1,UK-Sky Sports F1
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1075
+http://myislandtv.xyz:8080/Saga/shah/1075
 #EXTINF:-1,UK-Sky Sports Action
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1078
+http://myislandtv.xyz:8080/Saga/shah/1078
 #EXTINF:-1,UK-Sky Sports News
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1070
+http://myislandtv.xyz:8080/Saga/shah/1070
 #EXTINF:-1,UK-Sky Sports Mix
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1071
+http://myislandtv.xyz:8080/Saga/shah/1071
 #EXTINF:-1,UK-Sky Sports Arena
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1077
+http://myislandtv.xyz:8080/Saga/shah/1077
 #EXTINF:-1,UK-Sky Sports Racing
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1068
+http://myislandtv.xyz:8080/Saga/shah/1068
 #EXTINF:-1,UK-BT Sport 1 
-http://myislandtv.xyz:8080/Rishikesh/Dixit/2143
+http://myislandtv.xyz:8080/Saga/shah/2143
 #EXTINF:-1,UK-BT Sport 2
-http://myislandtv.xyz:8080/Rishikesh/Dixit/2144
+http://myislandtv.xyz:8080/Saga/shah/2144
 #EXTINF:-1,UK-BT Sport 3
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1080
+http://myislandtv.xyz:8080/Saga/shah/1080
 #EXTINF:-1,UK-BT Sport ESPN
-http://myislandtv.xyz:8080/Rishikesh/Dixit/2146
+http://myislandtv.xyz:8080/Saga/shah/2146
 #EXTINF:-1,UK- Chelsea TV
-http://myislandtv.xyz:8080/Rishikesh/Dixit/5766
+http://myislandtv.xyz:8080/Saga/shah/5766
 #EXTINF:-1,UK-Premier Sports 1
-http://myislandtv.xyz:8080/Rishikesh/Dixit/5614
+http://myislandtv.xyz:8080/Saga/shah/5614
 #EXTINF:-1,UK-Premier Sports 2
-http://myislandtv.xyz:8080/Rishikesh/Dixit/5615
+http://myislandtv.xyz:8080/Saga/shah/5615
 #EXTINF:-1,UK-Eurosport 1
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1066
+http://myislandtv.xyz:8080/Saga/shah/1066
 #EXTINF:-1,UK-Eurosport 2
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1065
+http://myislandtv.xyz:8080/Saga/shah/1065
 #EXTINF:-1,UK-Freesports
-http://myislandtv.xyz:8080/Rishikesh/Dixit/5765
+http://myislandtv.xyz:8080/Saga/shah/5765
 #EXTINF:-1,UK-Box Nation
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1067
+http://myislandtv.xyz:8080/Saga/shah/1067
 #EXTINF:-1,UK-Boomerang
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1063
+http://myislandtv.xyz:8080/Saga/shah/1063
 #EXTINF:-1,UK-Cartoon Network
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1062
+http://myislandtv.xyz:8080/Saga/shah/1062
 #EXTINF:-1,UK-CBBC
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1061
+http://myislandtv.xyz:8080/Saga/shah/1061
 #EXTINF:-1,UK-CBeebies
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1060
+http://myislandtv.xyz:8080/Saga/shah/1060
 #EXTINF:-1,UK-CITV
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1059
+http://myislandtv.xyz:8080/Saga/shah/1059
 #EXTINF:-1,UK-Disney Channel
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1058
+http://myislandtv.xyz:8080/Saga/shah/1058
 #EXTINF:-1,UK-Disney Junior
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1057
+http://myislandtv.xyz:8080/Saga/shah/1057
 #EXTINF:-1,UK-Disney XD
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1056
+http://myislandtv.xyz:8080/Saga/shah/1056
 #EXTINF:-1,UK-Nick Jr
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1053
+http://myislandtv.xyz:8080/Saga/shah/1053
 #EXTINF:-1,UK-Nick Jnr Too
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1055
+http://myislandtv.xyz:8080/Saga/shah/1055
 #EXTINF:-1,UK-Nickelodeon
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1054
+http://myislandtv.xyz:8080/Saga/shah/1054
 #EXTINF:-1,UK-Nicktoons
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1052
+http://myislandtv.xyz:8080/Saga/shah/1052
 #EXTINF:-1,UK-Tiny Pop
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1051
+http://myislandtv.xyz:8080/Saga/shah/1051
 #EXTINF:-1,UK-4Music
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1050
+http://myislandtv.xyz:8080/Saga/shah/1050
 #EXTINF:-1,UK-Clubland TV
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1049
+http://myislandtv.xyz:8080/Saga/shah/1049
 #EXTINF:-1,UK-MTV Base
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1048
+http://myislandtv.xyz:8080/Saga/shah/1048
 #EXTINF:-1,UK-MTV Classic
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1047
+http://myislandtv.xyz:8080/Saga/shah/1047
 #EXTINF:-1,UK-MTV Hits
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1046
+http://myislandtv.xyz:8080/Saga/shah/1046
 #EXTINF:-1,UK-MTV Rocks
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1045
+http://myislandtv.xyz:8080/Saga/shah/1045
 #EXTINF:-1,UK-MTV UK
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1044
+http://myislandtv.xyz:8080/Saga/shah/1044
 #EXTINF:-1,UK- Sky News
-http://myislandtv.xyz:8080/Rishikesh/Dixit/5634
+http://myislandtv.xyz:8080/Saga/shah/5634
 #EXTINF:-1,UK-Eleven Sports 1
-http://myislandtv.xyz:8080/Rishikesh/Dixit/2169
+http://myislandtv.xyz:8080/Saga/shah/2169
 #EXTINF:-1,UK-Eleven Sports 2
-http://myislandtv.xyz:8080/Rishikesh/Dixit/2170
+http://myislandtv.xyz:8080/Saga/shah/2170
 #EXTINF:-1,UK-Racing TV
-http://myislandtv.xyz:8080/Rishikesh/Dixit/4694
+http://myislandtv.xyz:8080/Saga/shah/4694
 #EXTINF:-1,Irish-3E
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1638
+http://myislandtv.xyz:8080/Saga/shah/1638
 #EXTINF:-1,Irish-RTE 1
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1642
+http://myislandtv.xyz:8080/Saga/shah/1642
 #EXTINF:-1,Irish-RTE 2
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1641
+http://myislandtv.xyz:8080/Saga/shah/1641
 #EXTINF:-1,Irish-RTE News
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1643
+http://myislandtv.xyz:8080/Saga/shah/1643
 #EXTINF:-1,Irish-TG4
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1640
+http://myislandtv.xyz:8080/Saga/shah/1640
 #EXTINF:-1,Irish-TV3
-http://myislandtv.xyz:8080/Rishikesh/Dixit/1639
+http://myislandtv.xyz:8080/Saga/shah/1639
 #EXTINF:-1,Irish- Eir Sport 1
-http://myislandtv.xyz:8080/Rishikesh/Dixit/5080
+http://myislandtv.xyz:8080/Saga/shah/5080
 #EXTINF:-1,Irish- Eir Sport 2
-http://myislandtv.xyz:8080/Rishikesh/Dixit/5081
+http://myislandtv.xyz:8080/Saga/shah/5081
 #EXTINF:-1,Irish- UTV
-http://myislandtv.xyz:8080/Rishikesh/Dixit/5082
+http://myislandtv.xyz:8080/Saga/shah/5082
 #EXTINF:-1,Irish- Virgin Media 1
-http://myislandtv.xyz:8080/Rishikesh/Dixit/5077
+http://myislandtv.xyz:8080/Saga/shah/5077
 #EXTINF:-1,Irish- Virgin Media 2
-http://myislandtv.xyz:8080/Rishikesh/Dixit/5078
+http://myislandtv.xyz:8080/Saga/shah/5078
 #EXTINF:-1,Irish- Virgin Media 3
-http://myislandtv.xyz:8080/Rishikesh/Dixit/5079
+http://myislandtv.xyz:8080/Saga/shah/5079
 #EXTINF:-1,Irish-Virgin Sport
-http://myislandtv.xyz:8080/Rishikesh/Dixit/8931
+http://myislandtv.xyz:8080/Saga/shah/8931
 #EXTINF:-1,UK-CBS Reality
-http://myislandtv.xyz:8080/Rishikesh/Dixit/10951
+http://myislandtv.xyz:8080/Saga/shah/10951
 #EXTINF:-1,UK-Pick
-http://myislandtv.xyz:8080/Rishikesh/Dixit/37256
+http://myislandtv.xyz:8080/Saga/shah/37256
 #EXTINF:-1,UK-Blaze
-http://myislandtv.xyz:8080/Rishikesh/Dixit/38207
+http://myislandtv.xyz:8080/Saga/shah/38207
 #EXTINF:-1,UK-BBC One Islands
-http://myislandtv.xyz:8080/Rishikesh/Dixit/46650
+http://myislandtv.xyz:8080/Saga/shah/46650
 #EXTINF:-1,UK-BBC One London
-http://myislandtv.xyz:8080/Rishikesh/Dixit/46651
+http://myislandtv.xyz:8080/Saga/shah/46651
 #EXTINF:-1,UK-BBC One North West
-http://myislandtv.xyz:8080/Rishikesh/Dixit/46652
+http://myislandtv.xyz:8080/Saga/shah/46652
 #EXTINF:-1,UK-BBC One Scotland
-http://myislandtv.xyz:8080/Rishikesh/Dixit/46653
+http://myislandtv.xyz:8080/Saga/shah/46653
 #EXTINF:-1,UK-BBC One West
-http://myislandtv.xyz:8080/Rishikesh/Dixit/46654
+http://myislandtv.xyz:8080/Saga/shah/46654
 #EXTINF:-1,UK-BBC Two Northern Ireland
-http://myislandtv.xyz:8080/Rishikesh/Dixit/46655
+http://myislandtv.xyz:8080/Saga/shah/46655
 #EXTINF:-1,UK-BBC Two Wales
-http://myislandtv.xyz:8080/Rishikesh/Dixit/46656
+http://myislandtv.xyz:8080/Saga/shah/46656
 #EXTINF:-1,UK-BBC Three
-http://myislandtv.xyz:8080/Rishikesh/Dixit/46657
+http://myislandtv.xyz:8080/Saga/shah/46657
 #EXTINF:-1,UK-BBC Four
-http://myislandtv.xyz:8080/Rishikesh/Dixit/46658
+http://myislandtv.xyz:8080/Saga/shah/46658
 #EXTINF:-1,UK-BBC News
-http://myislandtv.xyz:8080/Rishikesh/Dixit/46659
+http://myislandtv.xyz:8080/Saga/shah/46659
 #EXTINF:-1,UK-Sky Documentaries
-http://myislandtv.xyz:8080/Rishikesh/Dixit/50922
+http://myislandtv.xyz:8080/Saga/shah/50922
 #EXTINF:-1,UK-Sky Nature
-http://myislandtv.xyz:8080/Rishikesh/Dixit/50923
+http://myislandtv.xyz:8080/Saga/shah/50923
 
 
 
@@ -3157,13 +3157,13 @@ http://myislandtv.xyz:8080/Rishikesh/Dixit/50923
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK IN INDIA  LINE",UK : STAR BHARAT
 
 
-http://iptvmedia.live:8080/test-0bd18c/6479/70816
+http://iptvmedia.live:8080/test-532fbe/39e2/70816
 #EXTINF:-1,UK: Star Gold
-http://iptvmedia.live:8080/test-0bd18c/6479/65410
+http://iptvmedia.live:8080/test-532fbe/39e2/65410
 #EXTINF:-1,UK: Star Jalsha
-http://iptvmedia.live:8080/test-0bd18c/6479/65409
+http://iptvmedia.live:8080/test-532fbe/39e2/65409
 #EXTINF:-1,UK: Star Plus FHD
-http://iptvmedia.live:8080/test-0bd18c/6479/16091
+http://iptvmedia.live:8080/test-532fbe/39e2/16091
 
 
 
