@@ -3017,13 +3017,13 @@ http://myislandtv.xyz:8080/Janak/tyagi/50923
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK IN INDIA  LINE",UK : STAR BHARAT
 
 
-http://iptvmedia.live:8080/test-7a4bcc/460b/70816
+http://iptvmedia.live:8080/test-b386b5/0d4a/70816
 #EXTINF:-1,UK: Star Gold
-http://iptvmedia.live:8080/test-7a4bcc/460b/65410
+http://iptvmedia.live:8080/test-b386b5/0d4a/65410
 #EXTINF:-1,UK: Star Jalsha
-http://iptvmedia.live:8080/test-7a4bcc/460b/65409
+http://iptvmedia.live:8080/test-b386b5/0d4a/65409
 #EXTINF:-1,UK: Star Plus FHD
-http://iptvmedia.live:8080/test-7a4bcc/460b/16091
+http://iptvmedia.live:8080/test-b386b5/0d4a/16091
 
 
 
