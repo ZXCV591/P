@@ -2889,279 +2889,279 @@ http://iptvmedia.live:8080/test-cc364e/b8a8/173160
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/thumb/e/eb/Manchester_City_FC_badge.svg/410px-Manchester_City_FC_badge.svg.png" group-title="MANCHESTER  LINE",UK BBC ONE
 
-http://myislandtv.xyz:8080/Vijay/kumar/1134
+http://myislandtv.xyz:8080/Jagat/pal/1134
 #EXTINF:-1,UK-BBC Two
-http://myislandtv.xyz:8080/Vijay/kumar/1133
+http://myislandtv.xyz:8080/Jagat/pal/1133
 #EXTINF:-1,UK-ITV
-http://myislandtv.xyz:8080/Vijay/kumar/1132
+http://myislandtv.xyz:8080/Jagat/pal/1132
 #EXTINF:-1,UK-Channel 4
-http://myislandtv.xyz:8080/Vijay/kumar/1131
+http://myislandtv.xyz:8080/Jagat/pal/1131
 #EXTINF:-1,UK-Channel 5
-http://myislandtv.xyz:8080/Vijay/kumar/1130
+http://myislandtv.xyz:8080/Jagat/pal/1130
 #EXTINF:-1,UK-Sky 1
-http://myislandtv.xyz:8080/Vijay/kumar/1129
+http://myislandtv.xyz:8080/Jagat/pal/1129
 #EXTINF:-1,UK-Sky Witness
-http://myislandtv.xyz:8080/Vijay/kumar/1126
+http://myislandtv.xyz:8080/Jagat/pal/1126
 #EXTINF:-1,UK-Sky Atlantic
-http://myislandtv.xyz:8080/Vijay/kumar/1127
+http://myislandtv.xyz:8080/Jagat/pal/1127
 #EXTINF:-1,UK-Sky Crime
-http://myislandtv.xyz:8080/Vijay/kumar/9625
+http://myislandtv.xyz:8080/Jagat/pal/9625
 #EXTINF:-1,UK-W
-http://myislandtv.xyz:8080/Vijay/kumar/1107
+http://myislandtv.xyz:8080/Jagat/pal/1107
 #EXTINF:-1,UK-Gold
-http://myislandtv.xyz:8080/Vijay/kumar/1109
+http://myislandtv.xyz:8080/Jagat/pal/1109
 #EXTINF:-1,UK-Dave
-http://myislandtv.xyz:8080/Vijay/kumar/1113
+http://myislandtv.xyz:8080/Jagat/pal/1113
 #EXTINF:-1,UK-Comedy Central
-http://myislandtv.xyz:8080/Vijay/kumar/1116
+http://myislandtv.xyz:8080/Jagat/pal/1116
 #EXTINF:-1,UK-Sky Comedy
-http://myislandtv.xyz:8080/Vijay/kumar/50926
+http://myislandtv.xyz:8080/Jagat/pal/50926
 #EXTINF:-1,UK-Eden
-http://myislandtv.xyz:8080/Vijay/kumar/5610
+http://myislandtv.xyz:8080/Jagat/pal/5610
 #EXTINF:-1,UK-SyFy
-http://myislandtv.xyz:8080/Vijay/kumar/1108
+http://myislandtv.xyz:8080/Jagat/pal/1108
 #EXTINF:-1,UK-ITV 2
-http://myislandtv.xyz:8080/Vijay/kumar/1125
+http://myislandtv.xyz:8080/Jagat/pal/1125
 #EXTINF:-1,UK-ITV 3
-http://myislandtv.xyz:8080/Vijay/kumar/3831
+http://myislandtv.xyz:8080/Jagat/pal/3831
 #EXTINF:-1,UK-ITV 4
-http://myislandtv.xyz:8080/Vijay/kumar/1124
+http://myislandtv.xyz:8080/Jagat/pal/1124
 #EXTINF:-1,UK-Fox
-http://myislandtv.xyz:8080/Vijay/kumar/1110
+http://myislandtv.xyz:8080/Jagat/pal/1110
 #EXTINF:-1,UK-Comedy Central Extra
-http://myislandtv.xyz:8080/Vijay/kumar/1115
+http://myislandtv.xyz:8080/Jagat/pal/1115
 #EXTINF:-1,UK-5 Star
-http://myislandtv.xyz:8080/Vijay/kumar/1118
+http://myislandtv.xyz:8080/Jagat/pal/1118
 #EXTINF:-1,UK-Home & Health
-http://myislandtv.xyz:8080/Vijay/kumar/5611
+http://myislandtv.xyz:8080/Jagat/pal/5611
 #EXTINF:-1,UK-ITV BE
-http://myislandtv.xyz:8080/Vijay/kumar/1123
+http://myislandtv.xyz:8080/Jagat/pal/1123
 #EXTINF:-1,UK-E4
-http://myislandtv.xyz:8080/Vijay/kumar/1121
+http://myislandtv.xyz:8080/Jagat/pal/1121
 #EXTINF:-1,UK-More 4
-http://myislandtv.xyz:8080/Vijay/kumar/1122
+http://myislandtv.xyz:8080/Jagat/pal/1122
 #EXTINF:-1,UK-4Seven
-http://myislandtv.xyz:8080/Vijay/kumar/1120
+http://myislandtv.xyz:8080/Jagat/pal/1120
 #EXTINF:-1,UK-5 USA
-http://myislandtv.xyz:8080/Vijay/kumar/1117
+http://myislandtv.xyz:8080/Jagat/pal/1117
 #EXTINF:-1,UK-Really
-http://myislandtv.xyz:8080/Vijay/kumar/1105
+http://myislandtv.xyz:8080/Jagat/pal/1105
 #EXTINF:-1,UK-Drama
-http://myislandtv.xyz:8080/Vijay/kumar/1112
+http://myislandtv.xyz:8080/Jagat/pal/1112
 #EXTINF:-1,UK-Challenge
-http://myislandtv.xyz:8080/Vijay/kumar/1114
+http://myislandtv.xyz:8080/Jagat/pal/1114
 #EXTINF:-1,UK-Sky 2
-http://myislandtv.xyz:8080/Vijay/kumar/1128
+http://myislandtv.xyz:8080/Jagat/pal/1128
 #EXTINF:-1,UK-AMC
-http://myislandtv.xyz:8080/Vijay/kumar/1111
+http://myislandtv.xyz:8080/Jagat/pal/1111
 #EXTINF:-1,UK-Alibi
-http://myislandtv.xyz:8080/Vijay/kumar/4695
+http://myislandtv.xyz:8080/Jagat/pal/4695
 #EXTINF:-1,UK-TLC
-http://myislandtv.xyz:8080/Vijay/kumar/4709
+http://myislandtv.xyz:8080/Jagat/pal/4709
 #EXTINF:-1,UK-Quest
-http://myislandtv.xyz:8080/Vijay/kumar/4710
+http://myislandtv.xyz:8080/Jagat/pal/4710
 #EXTINF:-1,UK-Universal
-http://myislandtv.xyz:8080/Vijay/kumar/7392
+http://myislandtv.xyz:8080/Jagat/pal/7392
 #EXTINF:-1,UK-Discovery Channel
-http://myislandtv.xyz:8080/Vijay/kumar/1101
+http://myislandtv.xyz:8080/Jagat/pal/1101
 #EXTINF:-1,UK-Nat Geo
-http://myislandtv.xyz:8080/Vijay/kumar/1104
+http://myislandtv.xyz:8080/Jagat/pal/1104
 #EXTINF:-1,UK-History
-http://myislandtv.xyz:8080/Vijay/kumar/1095
+http://myislandtv.xyz:8080/Jagat/pal/1095
 #EXTINF:-1,UK-Investigation Discovery
-http://myislandtv.xyz:8080/Vijay/kumar/1097
+http://myislandtv.xyz:8080/Jagat/pal/1097
 #EXTINF:-1,UK-Yesterday
-http://myislandtv.xyz:8080/Vijay/kumar/1106
+http://myislandtv.xyz:8080/Jagat/pal/1106
 #EXTINF:-1,UK-Crime & Investigation
-http://myislandtv.xyz:8080/Vijay/kumar/1096
+http://myislandtv.xyz:8080/Jagat/pal/1096
 #EXTINF:-1,UK-Discovery Turbo
-http://myislandtv.xyz:8080/Vijay/kumar/1098
+http://myislandtv.xyz:8080/Jagat/pal/1098
 #EXTINF:-1,UK-Animal Planet
-http://myislandtv.xyz:8080/Vijay/kumar/1102
+http://myislandtv.xyz:8080/Jagat/pal/1102
 #EXTINF:-1,UK-H2
-http://myislandtv.xyz:8080/Vijay/kumar/1094
+http://myislandtv.xyz:8080/Jagat/pal/1094
 #EXTINF:-1,UK-Nat Geo Wild
-http://myislandtv.xyz:8080/Vijay/kumar/1103
+http://myislandtv.xyz:8080/Jagat/pal/1103
 #EXTINF:-1,UK-Discovery History
-http://myislandtv.xyz:8080/Vijay/kumar/1100
+http://myislandtv.xyz:8080/Jagat/pal/1100
 #EXTINF:-1,UK-Discovery Science
-http://myislandtv.xyz:8080/Vijay/kumar/1099
+http://myislandtv.xyz:8080/Jagat/pal/1099
 #EXTINF:-1,UK-Discovery Shed
-http://myislandtv.xyz:8080/Vijay/kumar/1093
+http://myislandtv.xyz:8080/Jagat/pal/1093
 #EXTINF:-1,UK-Sky Cinema Premier
-http://myislandtv.xyz:8080/Vijay/kumar/1092
+http://myislandtv.xyz:8080/Jagat/pal/1092
 #EXTINF:-1,UK-Sky Cinema Hits
-http://myislandtv.xyz:8080/Vijay/kumar/1085
+http://myislandtv.xyz:8080/Jagat/pal/1085
 #EXTINF:-1,UK-Sky Cinema Disney
-http://myislandtv.xyz:8080/Vijay/kumar/1087
+http://myislandtv.xyz:8080/Jagat/pal/1087
 #EXTINF:-1,UK-Sky Cinema Action
-http://myislandtv.xyz:8080/Vijay/kumar/1091
+http://myislandtv.xyz:8080/Jagat/pal/1091
 #EXTINF:-1,UK-Sky Cinema Comedy
-http://myislandtv.xyz:8080/Vijay/kumar/1089
+http://myislandtv.xyz:8080/Jagat/pal/1089
 #EXTINF:-1,UK-Sky Cinema Crime & Thriller
-http://myislandtv.xyz:8080/Vijay/kumar/1088
+http://myislandtv.xyz:8080/Jagat/pal/1088
 #EXTINF:-1,UK-Sky Cinema Greats
-http://myislandtv.xyz:8080/Vijay/kumar/1084
+http://myislandtv.xyz:8080/Jagat/pal/1084
 #EXTINF:-1,UK-Sky Cinema Sci-Fi & Horror
-http://myislandtv.xyz:8080/Vijay/kumar/1083
+http://myislandtv.xyz:8080/Jagat/pal/1083
 #EXTINF:-1,UK-Sky Cinema Family
-http://myislandtv.xyz:8080/Vijay/kumar/1086
+http://myislandtv.xyz:8080/Jagat/pal/1086
 #EXTINF:-1,UK-Sky Cinema Drama
-http://myislandtv.xyz:8080/Vijay/kumar/1090
+http://myislandtv.xyz:8080/Jagat/pal/1090
 #EXTINF:-1,UK- Sky Cinema Select
-http://myislandtv.xyz:8080/Vijay/kumar/5630
+http://myislandtv.xyz:8080/Jagat/pal/5630
 #EXTINF:-1,UK-Film 4
-http://myislandtv.xyz:8080/Vijay/kumar/4696
+http://myislandtv.xyz:8080/Jagat/pal/4696
 #EXTINF:-1,UK-TCM
-http://myislandtv.xyz:8080/Vijay/kumar/4705
+http://myislandtv.xyz:8080/Jagat/pal/4705
 #EXTINF:-1,UK-Sky Sports Main Event
-http://myislandtv.xyz:8080/Vijay/kumar/1072
+http://myislandtv.xyz:8080/Jagat/pal/1072
 #EXTINF:-1,UK-Sky Sports Premier League
-http://myislandtv.xyz:8080/Vijay/kumar/1069
+http://myislandtv.xyz:8080/Jagat/pal/1069
 #EXTINF:-1,UK-Sky Sports Football
-http://myislandtv.xyz:8080/Vijay/kumar/1074
+http://myislandtv.xyz:8080/Jagat/pal/1074
 #EXTINF:-1,UK-Sky Sports Cricket
-http://myislandtv.xyz:8080/Vijay/kumar/1076
+http://myislandtv.xyz:8080/Jagat/pal/1076
 #EXTINF:-1,UK-Sky Sports Golf
-http://myislandtv.xyz:8080/Vijay/kumar/1073
+http://myislandtv.xyz:8080/Jagat/pal/1073
 #EXTINF:-1,UK-Sky Sports F1
-http://myislandtv.xyz:8080/Vijay/kumar/1075
+http://myislandtv.xyz:8080/Jagat/pal/1075
 #EXTINF:-1,UK-Sky Sports Action
-http://myislandtv.xyz:8080/Vijay/kumar/1078
+http://myislandtv.xyz:8080/Jagat/pal/1078
 #EXTINF:-1,UK-Sky Sports News
-http://myislandtv.xyz:8080/Vijay/kumar/1070
+http://myislandtv.xyz:8080/Jagat/pal/1070
 #EXTINF:-1,UK-Sky Sports Mix
-http://myislandtv.xyz:8080/Vijay/kumar/1071
+http://myislandtv.xyz:8080/Jagat/pal/1071
 #EXTINF:-1,UK-Sky Sports Arena
-http://myislandtv.xyz:8080/Vijay/kumar/1077
+http://myislandtv.xyz:8080/Jagat/pal/1077
 #EXTINF:-1,UK-Sky Sports Racing
-http://myislandtv.xyz:8080/Vijay/kumar/1068
+http://myislandtv.xyz:8080/Jagat/pal/1068
 #EXTINF:-1,UK-BT Sport 1 
-http://myislandtv.xyz:8080/Vijay/kumar/2143
+http://myislandtv.xyz:8080/Jagat/pal/2143
 #EXTINF:-1,UK-BT Sport 2
-http://myislandtv.xyz:8080/Vijay/kumar/2144
+http://myislandtv.xyz:8080/Jagat/pal/2144
 #EXTINF:-1,UK-BT Sport 3
-http://myislandtv.xyz:8080/Vijay/kumar/1080
+http://myislandtv.xyz:8080/Jagat/pal/1080
 #EXTINF:-1,UK-BT Sport ESPN
-http://myislandtv.xyz:8080/Vijay/kumar/2146
+http://myislandtv.xyz:8080/Jagat/pal/2146
 #EXTINF:-1,UK- Chelsea TV
-http://myislandtv.xyz:8080/Vijay/kumar/5766
+http://myislandtv.xyz:8080/Jagat/pal/5766
 #EXTINF:-1,UK-Premier Sports 1
-http://myislandtv.xyz:8080/Vijay/kumar/5614
+http://myislandtv.xyz:8080/Jagat/pal/5614
 #EXTINF:-1,UK-Premier Sports 2
-http://myislandtv.xyz:8080/Vijay/kumar/5615
+http://myislandtv.xyz:8080/Jagat/pal/5615
 #EXTINF:-1,UK-Eurosport 1
-http://myislandtv.xyz:8080/Vijay/kumar/1066
+http://myislandtv.xyz:8080/Jagat/pal/1066
 #EXTINF:-1,UK-Eurosport 2
-http://myislandtv.xyz:8080/Vijay/kumar/1065
+http://myislandtv.xyz:8080/Jagat/pal/1065
 #EXTINF:-1,UK-Freesports
-http://myislandtv.xyz:8080/Vijay/kumar/5765
+http://myislandtv.xyz:8080/Jagat/pal/5765
 #EXTINF:-1,UK-Box Nation
-http://myislandtv.xyz:8080/Vijay/kumar/1067
+http://myislandtv.xyz:8080/Jagat/pal/1067
 #EXTINF:-1,UK-Boomerang
-http://myislandtv.xyz:8080/Vijay/kumar/1063
+http://myislandtv.xyz:8080/Jagat/pal/1063
 #EXTINF:-1,UK-Cartoon Network
-http://myislandtv.xyz:8080/Vijay/kumar/1062
+http://myislandtv.xyz:8080/Jagat/pal/1062
 #EXTINF:-1,UK-CBBC
-http://myislandtv.xyz:8080/Vijay/kumar/1061
+http://myislandtv.xyz:8080/Jagat/pal/1061
 #EXTINF:-1,UK-CBeebies
-http://myislandtv.xyz:8080/Vijay/kumar/1060
+http://myislandtv.xyz:8080/Jagat/pal/1060
 #EXTINF:-1,UK-CITV
-http://myislandtv.xyz:8080/Vijay/kumar/1059
+http://myislandtv.xyz:8080/Jagat/pal/1059
 #EXTINF:-1,UK-Disney Channel
-http://myislandtv.xyz:8080/Vijay/kumar/1058
+http://myislandtv.xyz:8080/Jagat/pal/1058
 #EXTINF:-1,UK-Disney Junior
-http://myislandtv.xyz:8080/Vijay/kumar/1057
+http://myislandtv.xyz:8080/Jagat/pal/1057
 #EXTINF:-1,UK-Disney XD
-http://myislandtv.xyz:8080/Vijay/kumar/1056
+http://myislandtv.xyz:8080/Jagat/pal/1056
 #EXTINF:-1,UK-Nick Jr
-http://myislandtv.xyz:8080/Vijay/kumar/1053
+http://myislandtv.xyz:8080/Jagat/pal/1053
 #EXTINF:-1,UK-Nick Jnr Too
-http://myislandtv.xyz:8080/Vijay/kumar/1055
+http://myislandtv.xyz:8080/Jagat/pal/1055
 #EXTINF:-1,UK-Nickelodeon
-http://myislandtv.xyz:8080/Vijay/kumar/1054
+http://myislandtv.xyz:8080/Jagat/pal/1054
 #EXTINF:-1,UK-Nicktoons
-http://myislandtv.xyz:8080/Vijay/kumar/1052
+http://myislandtv.xyz:8080/Jagat/pal/1052
 #EXTINF:-1,UK-Tiny Pop
-http://myislandtv.xyz:8080/Vijay/kumar/1051
+http://myislandtv.xyz:8080/Jagat/pal/1051
 #EXTINF:-1,UK-4Music
-http://myislandtv.xyz:8080/Vijay/kumar/1050
+http://myislandtv.xyz:8080/Jagat/pal/1050
 #EXTINF:-1,UK-Clubland TV
-http://myislandtv.xyz:8080/Vijay/kumar/1049
+http://myislandtv.xyz:8080/Jagat/pal/1049
 #EXTINF:-1,UK-MTV Base
-http://myislandtv.xyz:8080/Vijay/kumar/1048
+http://myislandtv.xyz:8080/Jagat/pal/1048
 #EXTINF:-1,UK-MTV Classic
-http://myislandtv.xyz:8080/Vijay/kumar/1047
+http://myislandtv.xyz:8080/Jagat/pal/1047
 #EXTINF:-1,UK-MTV Hits
-http://myislandtv.xyz:8080/Vijay/kumar/1046
+http://myislandtv.xyz:8080/Jagat/pal/1046
 #EXTINF:-1,UK-MTV Rocks
-http://myislandtv.xyz:8080/Vijay/kumar/1045
+http://myislandtv.xyz:8080/Jagat/pal/1045
 #EXTINF:-1,UK-MTV UK
-http://myislandtv.xyz:8080/Vijay/kumar/1044
+http://myislandtv.xyz:8080/Jagat/pal/1044
 #EXTINF:-1,UK- Sky News
-http://myislandtv.xyz:8080/Vijay/kumar/5634
+http://myislandtv.xyz:8080/Jagat/pal/5634
 #EXTINF:-1,UK-Eleven Sports 1
-http://myislandtv.xyz:8080/Vijay/kumar/2169
+http://myislandtv.xyz:8080/Jagat/pal/2169
 #EXTINF:-1,UK-Eleven Sports 2
-http://myislandtv.xyz:8080/Vijay/kumar/2170
+http://myislandtv.xyz:8080/Jagat/pal/2170
 #EXTINF:-1,UK-Racing TV
-http://myislandtv.xyz:8080/Vijay/kumar/4694
+http://myislandtv.xyz:8080/Jagat/pal/4694
 #EXTINF:-1,Irish-3E
-http://myislandtv.xyz:8080/Vijay/kumar/1638
+http://myislandtv.xyz:8080/Jagat/pal/1638
 #EXTINF:-1,Irish-RTE 1
-http://myislandtv.xyz:8080/Vijay/kumar/1642
+http://myislandtv.xyz:8080/Jagat/pal/1642
 #EXTINF:-1,Irish-RTE 2
-http://myislandtv.xyz:8080/Vijay/kumar/1641
+http://myislandtv.xyz:8080/Jagat/pal/1641
 #EXTINF:-1,Irish-RTE News
-http://myislandtv.xyz:8080/Vijay/kumar/1643
+http://myislandtv.xyz:8080/Jagat/pal/1643
 #EXTINF:-1,Irish-TG4
-http://myislandtv.xyz:8080/Vijay/kumar/1640
+http://myislandtv.xyz:8080/Jagat/pal/1640
 #EXTINF:-1,Irish-TV3
-http://myislandtv.xyz:8080/Vijay/kumar/1639
+http://myislandtv.xyz:8080/Jagat/pal/1639
 #EXTINF:-1,Irish- Eir Sport 1
-http://myislandtv.xyz:8080/Vijay/kumar/5080
+http://myislandtv.xyz:8080/Jagat/pal/5080
 #EXTINF:-1,Irish- Eir Sport 2
-http://myislandtv.xyz:8080/Vijay/kumar/5081
+http://myislandtv.xyz:8080/Jagat/pal/5081
 #EXTINF:-1,Irish- UTV
-http://myislandtv.xyz:8080/Vijay/kumar/5082
+http://myislandtv.xyz:8080/Jagat/pal/5082
 #EXTINF:-1,Irish- Virgin Media 1
-http://myislandtv.xyz:8080/Vijay/kumar/5077
+http://myislandtv.xyz:8080/Jagat/pal/5077
 #EXTINF:-1,Irish- Virgin Media 2
-http://myislandtv.xyz:8080/Vijay/kumar/5078
+http://myislandtv.xyz:8080/Jagat/pal/5078
 #EXTINF:-1,Irish- Virgin Media 3
-http://myislandtv.xyz:8080/Vijay/kumar/5079
+http://myislandtv.xyz:8080/Jagat/pal/5079
 #EXTINF:-1,Irish-Virgin Sport
-http://myislandtv.xyz:8080/Vijay/kumar/8931
+http://myislandtv.xyz:8080/Jagat/pal/8931
 #EXTINF:-1,UK-CBS Reality
-http://myislandtv.xyz:8080/Vijay/kumar/10951
+http://myislandtv.xyz:8080/Jagat/pal/10951
 #EXTINF:-1,UK-Pick
-http://myislandtv.xyz:8080/Vijay/kumar/37256
+http://myislandtv.xyz:8080/Jagat/pal/37256
 #EXTINF:-1,UK-Blaze
-http://myislandtv.xyz:8080/Vijay/kumar/38207
+http://myislandtv.xyz:8080/Jagat/pal/38207
 #EXTINF:-1,UK-BBC One Islands
-http://myislandtv.xyz:8080/Vijay/kumar/46650
+http://myislandtv.xyz:8080/Jagat/pal/46650
 #EXTINF:-1,UK-BBC One London
-http://myislandtv.xyz:8080/Vijay/kumar/46651
+http://myislandtv.xyz:8080/Jagat/pal/46651
 #EXTINF:-1,UK-BBC One North West
-http://myislandtv.xyz:8080/Vijay/kumar/46652
+http://myislandtv.xyz:8080/Jagat/pal/46652
 #EXTINF:-1,UK-BBC One Scotland
-http://myislandtv.xyz:8080/Vijay/kumar/46653
+http://myislandtv.xyz:8080/Jagat/pal/46653
 #EXTINF:-1,UK-BBC One West
-http://myislandtv.xyz:8080/Vijay/kumar/46654
+http://myislandtv.xyz:8080/Jagat/pal/46654
 #EXTINF:-1,UK-BBC Two Northern Ireland
-http://myislandtv.xyz:8080/Vijay/kumar/46655
+http://myislandtv.xyz:8080/Jagat/pal/46655
 #EXTINF:-1,UK-BBC Two Wales
-http://myislandtv.xyz:8080/Vijay/kumar/46656
+http://myislandtv.xyz:8080/Jagat/pal/46656
 #EXTINF:-1,UK-BBC Three
-http://myislandtv.xyz:8080/Vijay/kumar/46657
+http://myislandtv.xyz:8080/Jagat/pal/46657
 #EXTINF:-1,UK-BBC Four
-http://myislandtv.xyz:8080/Vijay/kumar/46658
+http://myislandtv.xyz:8080/Jagat/pal/46658
 #EXTINF:-1,UK-BBC News
-http://myislandtv.xyz:8080/Vijay/kumar/46659
+http://myislandtv.xyz:8080/Jagat/pal/46659
 #EXTINF:-1,UK-Sky Documentaries
-http://myislandtv.xyz:8080/Vijay/kumar/50922
+http://myislandtv.xyz:8080/Jagat/pal/50922
 #EXTINF:-1,UK-Sky Nature
-http://myislandtv.xyz:8080/Vijay/kumar/50923
+http://myislandtv.xyz:8080/Jagat/pal/50923
 
 
 
