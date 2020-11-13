@@ -3187,7 +3187,61 @@ http://iptvmedia.live:8080/test-4407d1/4994/16091
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="18+ jasmine network",LUST 1
+http://www.ast.tv/stream/1/master.m3u8?fluxuslust.m3u8
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",LUST 2
+http://www.ast.tv/stream/2/master.m3u8?fluxuslust.m3u8
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",LUST 3
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8?fluxuslust.m3u8
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",LUST 4
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8?fluxuslust.m3u8
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",Big Ass
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",Fetish
+http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",Interracial
+http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",Latina
+http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",MILF
+http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",POV
+http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",Russian
+http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",Teen
+http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
+ 
+#EXTINF:0 tvg-logo="https://www.jing.fm/clipimg/full/76-761913_penis-penis-png.png",Threesome
+http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 
 
 
