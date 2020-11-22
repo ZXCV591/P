@@ -3170,13 +3170,13 @@ http://myislandtv.xyz:8080/khnukT11NA/qya34zhSmM/50923
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK IN INDIA  LINE",UK : STAR BHARAT
 
 
-http://iptvmedia.live:8080/test-04fa4b/0ab1/70816
+http://iptvmedia.live:8080/test-643c7b/ec13/70816
 #EXTINF:-1,UK: Star Gold
-http://iptvmedia.live:8080/test-04fa4b/0ab1/65410
+http://iptvmedia.live:8080/test-643c7b/ec13/65410
 #EXTINF:-1,UK: Star Jalsha
-http://iptvmedia.live:8080/test-04fa4b/0ab1/65409
+http://iptvmedia.live:8080/test-643c7b/ec13/65409
 #EXTINF:-1,UK: Star Plus FHD
-http://iptvmedia.live:8080/test-04fa4b/0ab1/16091
+http://iptvmedia.live:8080/test-643c7b/ec13/16091
 
 
 
