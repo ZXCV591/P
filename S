@@ -1576,1231 +1576,1231 @@
 旅游，已从景区应对疫情的应急之举，逐渐发展成为景区了解游客新需求、满足新需求的得力帮手。可以预见，在多方努力下，预约出游有望成为人们的新风尚，在让旅游
 更安心、放心的同时，给旅游市场带来更大的发展动力安心、放心的同时，给旅游市场带来更大的发展动力
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.pngmart.com/files/3/London-PNG-Photos.png" group-title="LONDON LINE",4 seven
-http://iptvmedia.live:8080/test-36cc9d/a59c/4625
+http://iptvmedia.live:8080/test-f289cf/4218/4625
 #EXTINF:-1,UK: 5 Select HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4631
+http://iptvmedia.live:8080/test-f289cf/4218/4631
 #EXTINF:-1,UK: 5 Spike HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4635
+http://iptvmedia.live:8080/test-f289cf/4218/4635
 #EXTINF:-1,UK: 5 STAR +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/165908
+http://iptvmedia.live:8080/test-f289cf/4218/165908
 #EXTINF:-1,UK: 5 STAR HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4633
+http://iptvmedia.live:8080/test-f289cf/4218/4633
 #EXTINF:-1,UK: 5 USA +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/165903
+http://iptvmedia.live:8080/test-f289cf/4218/165903
 #EXTINF:-1,UK: 5 USA HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1579
+http://iptvmedia.live:8080/test-f289cf/4218/1579
 #EXTINF:-1,UK: 3E HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11683
+http://iptvmedia.live:8080/test-f289cf/4218/11683
 #EXTINF:-1,UK: 3E Ireland
-http://iptvmedia.live:8080/test-36cc9d/a59c/246502
+http://iptvmedia.live:8080/test-f289cf/4218/246502
 #EXTINF:-1,UK: 4Music HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4749
+http://iptvmedia.live:8080/test-f289cf/4218/4749
 #EXTINF:-1,UK 4Music HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/37252
+http://iptvmedia.live:8080/test-f289cf/4218/37252
 #EXTINF:-1,UK: 5a
-http://iptvmedia.live:8080/test-36cc9d/a59c/56969
+http://iptvmedia.live:8080/test-f289cf/4218/56969
 #EXTINF:-1,UK: 92 News
-http://iptvmedia.live:8080/test-36cc9d/a59c/75885
+http://iptvmedia.live:8080/test-f289cf/4218/75885
 #EXTINF:-1,UK: Aaj Tak
-http://iptvmedia.live:8080/test-36cc9d/a59c/173150
+http://iptvmedia.live:8080/test-f289cf/4218/173150
 #EXTINF:-1,UK: ABC News
-http://iptvmedia.live:8080/test-36cc9d/a59c/28004
+http://iptvmedia.live:8080/test-f289cf/4218/28004
 #EXTINF:-1,UK: ABP News HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/17122
+http://iptvmedia.live:8080/test-f289cf/4218/17122
 #EXTINF:-1,UK: Afro Music Channel
-http://iptvmedia.live:8080/test-36cc9d/a59c/165937
+http://iptvmedia.live:8080/test-f289cf/4218/165937
 #EXTINF:-1,UK Afro Music Channel
-http://iptvmedia.live:8080/test-36cc9d/a59c/221478
+http://iptvmedia.live:8080/test-f289cf/4218/221478
 #EXTINF:-1,UK: Ahlulbayt TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/166005
+http://iptvmedia.live:8080/test-f289cf/4218/166005
 #EXTINF:-1,UK: Akaal Channel
-http://iptvmedia.live:8080/test-36cc9d/a59c/173151
+http://iptvmedia.live:8080/test-f289cf/4218/173151
 #EXTINF:-1,UK: Al Jazeera HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/24077
+http://iptvmedia.live:8080/test-f289cf/4218/24077
 #EXTINF:-1,UK: Alibi +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/145788
+http://iptvmedia.live:8080/test-f289cf/4218/145788
 #EXTINF:-1,UK: Alibi FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1131
+http://iptvmedia.live:8080/test-f289cf/4218/1131
 #EXTINF:-1,UK: Aljazeera News HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/158466
+http://iptvmedia.live:8080/test-f289cf/4218/158466
 #EXTINF:-1,UK: AMC HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4669
+http://iptvmedia.live:8080/test-f289cf/4218/4669
 #EXTINF:-1,UK: ANIMAL PLANET FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1130
+http://iptvmedia.live:8080/test-f289cf/4218/1130
 #EXTINF:-1,UK ANIMAL PLANET FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220108
+http://iptvmedia.live:8080/test-f289cf/4218/220108
 #EXTINF:-1,UK: Aplus TV Europe
-http://iptvmedia.live:8080/test-36cc9d/a59c/199251
+http://iptvmedia.live:8080/test-f289cf/4218/199251
 #EXTINF:-1,UK: Arise News
-http://iptvmedia.live:8080/test-36cc9d/a59c/146108
+http://iptvmedia.live:8080/test-f289cf/4218/146108
 #EXTINF:-1,UK: Ary News
-http://iptvmedia.live:8080/test-36cc9d/a59c/48815
+http://iptvmedia.live:8080/test-f289cf/4218/48815
 #EXTINF:-1,UK: At The Races FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/731
+http://iptvmedia.live:8080/test-f289cf/4218/731
 #EXTINF:-1,UK: ATLANTIC HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/158463
+http://iptvmedia.live:8080/test-f289cf/4218/158463
 #EXTINF:-1,UK: Baby Nursery Rhymes
-http://iptvmedia.live:8080/test-36cc9d/a59c/29764
+http://iptvmedia.live:8080/test-f289cf/4218/29764
 #EXTINF:-1,UK: BABY TV FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1129
+http://iptvmedia.live:8080/test-f289cf/4218/1129
 #EXTINF:-1,UK BABY TV FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/50905
+http://iptvmedia.live:8080/test-f289cf/4218/50905
 #EXTINF:-1,UK: BBC 1 (SCOTLAND)
-http://iptvmedia.live:8080/test-36cc9d/a59c/11661
+http://iptvmedia.live:8080/test-f289cf/4218/11661
 #EXTINF:-1,UK: BBC 1 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/697
+http://iptvmedia.live:8080/test-f289cf/4218/697
 #EXTINF:-1,UK: BBC 1 London
-http://iptvmedia.live:8080/test-36cc9d/a59c/166647
+http://iptvmedia.live:8080/test-f289cf/4218/166647
 #EXTINF:-1,UK: BBC 1 NORTHERN IRELAND
-http://iptvmedia.live:8080/test-36cc9d/a59c/48579
+http://iptvmedia.live:8080/test-f289cf/4218/48579
 #EXTINF:-1,UK: BBC 1 SCOTTLAND HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/202089
+http://iptvmedia.live:8080/test-f289cf/4218/202089
 #EXTINF:-1,UK: BBC 1 Wales HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/65018
+http://iptvmedia.live:8080/test-f289cf/4218/65018
 #EXTINF:-1,UK: BBC 2 (Wales)
-http://iptvmedia.live:8080/test-36cc9d/a59c/65550
+http://iptvmedia.live:8080/test-f289cf/4218/65550
 #EXTINF:-1,UK: BBC 2 England HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/197209
+http://iptvmedia.live:8080/test-f289cf/4218/197209
 #EXTINF:-1,UK: BBC 2 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/71163
+http://iptvmedia.live:8080/test-f289cf/4218/71163
 #EXTINF:-1,UK: BBC 2 Ireland
-http://iptvmedia.live:8080/test-36cc9d/a59c/165900
+http://iptvmedia.live:8080/test-f289cf/4218/165900
 #EXTINF:-1,UK: BBC 2 Northern Ireland
-http://iptvmedia.live:8080/test-36cc9d/a59c/65531
+http://iptvmedia.live:8080/test-f289cf/4218/65531
 #EXTINF:-1,UK: BBC 2 Scotland
-http://iptvmedia.live:8080/test-36cc9d/a59c/65532
+http://iptvmedia.live:8080/test-f289cf/4218/65532
 #EXTINF:-1,UK: BBC 3 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/695
+http://iptvmedia.live:8080/test-f289cf/4218/695
 #EXTINF:-1,UK: BBC 4 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/732
+http://iptvmedia.live:8080/test-f289cf/4218/732
 #EXTINF:-1,UK: BBC ALBA
-http://iptvmedia.live:8080/test-36cc9d/a59c/11663
+http://iptvmedia.live:8080/test-f289cf/4218/11663
 #EXTINF:-1,UK: BBC CBEEBIES HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/61253
+http://iptvmedia.live:8080/test-f289cf/4218/61253
 #EXTINF:-1,UK BBC CBEEBIES HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220707
+http://iptvmedia.live:8080/test-f289cf/4218/220707
 #EXTINF:-1,UK: BBC EARTH
-http://iptvmedia.live:8080/test-36cc9d/a59c/174446
+http://iptvmedia.live:8080/test-f289cf/4218/174446
 #EXTINF:-1,UK: BBC Entertainement
-http://iptvmedia.live:8080/test-36cc9d/a59c/27793
+http://iptvmedia.live:8080/test-f289cf/4218/27793
 #EXTINF:-1,UK: BBC Entertainment
-http://iptvmedia.live:8080/test-36cc9d/a59c/202046
+http://iptvmedia.live:8080/test-f289cf/4218/202046
 #EXTINF:-1,UK: BBC First HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11586
+http://iptvmedia.live:8080/test-f289cf/4218/11586
 #EXTINF:-1,UK BBC First HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220274
+http://iptvmedia.live:8080/test-f289cf/4218/220274
 #EXTINF:-1,UK: BBC News FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/696
+http://iptvmedia.live:8080/test-f289cf/4218/696
 #EXTINF:-1,UK: BBC Parliament
-http://iptvmedia.live:8080/test-36cc9d/a59c/201117
+http://iptvmedia.live:8080/test-f289cf/4218/201117
 #EXTINF:-1,UK: BBC Parliment HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4766
+http://iptvmedia.live:8080/test-f289cf/4218/4766
 #EXTINF:-1,UK: BBC Scotland HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/12470
+http://iptvmedia.live:8080/test-f289cf/4218/12470
 #EXTINF:-1,UK: BBC Wales
-http://iptvmedia.live:8080/test-36cc9d/a59c/74379
+http://iptvmedia.live:8080/test-f289cf/4218/74379
 #EXTINF:-1,UK: BBC World News HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/9759
+http://iptvmedia.live:8080/test-f289cf/4218/9759
 #EXTINF:-1,UK: Blaze HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4642
+http://iptvmedia.live:8080/test-f289cf/4218/4642
 #EXTINF:-1,UK: BLOOMBERG HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1610
+http://iptvmedia.live:8080/test-f289cf/4218/1610
 #EXTINF:-1,UK: Bloomberg News
-http://iptvmedia.live:8080/test-36cc9d/a59c/95242
+http://iptvmedia.live:8080/test-f289cf/4218/95242
 #EXTINF:-1,UK: Boomerang +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/48877
+http://iptvmedia.live:8080/test-f289cf/4218/48877
 #EXTINF:-1,UK: Boomerang HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1125
+http://iptvmedia.live:8080/test-f289cf/4218/1125
 #EXTINF:-1,UK: Box Hits HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4742
+http://iptvmedia.live:8080/test-f289cf/4218/4742
 #EXTINF:-1,UK: BOX NATION FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4719
+http://iptvmedia.live:8080/test-f289cf/4218/4719
 #EXTINF:-1,UK: BOX OFFICE
-http://iptvmedia.live:8080/test-36cc9d/a59c/201212
+http://iptvmedia.live:8080/test-f289cf/4218/201212
 #EXTINF:-1,UK: Box Office 1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/18164
+http://iptvmedia.live:8080/test-f289cf/4218/18164
 #EXTINF:-1,UK: Box Office 2 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/18165
+http://iptvmedia.live:8080/test-f289cf/4218/18165
 #EXTINF:-1,UK: Box Office 3 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/18163
+http://iptvmedia.live:8080/test-f289cf/4218/18163
 #EXTINF:-1,UK: Box Office 4 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/18166
+http://iptvmedia.live:8080/test-f289cf/4218/18166
 #EXTINF:-1,UK: BOX OFFICE 5 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/18167
+http://iptvmedia.live:8080/test-f289cf/4218/18167
 #EXTINF:-1,UK: Box Office 6 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/18168
+http://iptvmedia.live:8080/test-f289cf/4218/18168
 #EXTINF:-1,UK: BOX OFFICE 7
-http://iptvmedia.live:8080/test-36cc9d/a59c/18169
+http://iptvmedia.live:8080/test-f289cf/4218/18169
 #EXTINF:-1,UK: BOX OFFICE 8
-http://iptvmedia.live:8080/test-36cc9d/a59c/18171
+http://iptvmedia.live:8080/test-f289cf/4218/18171
 #EXTINF:-1,UK: BOX OFFICE 9
-http://iptvmedia.live:8080/test-36cc9d/a59c/18170
+http://iptvmedia.live:8080/test-f289cf/4218/18170
 #EXTINF:-1,UK: BOX OFFICE 10
-http://iptvmedia.live:8080/test-36cc9d/a59c/57394
+http://iptvmedia.live:8080/test-f289cf/4218/57394
 #EXTINF:-1,UK: Box Upfront
-http://iptvmedia.live:8080/test-36cc9d/a59c/157278
+http://iptvmedia.live:8080/test-f289cf/4218/157278
 #EXTINF:-1,UK: British Muslim TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/33447
+http://iptvmedia.live:8080/test-f289cf/4218/33447
 #EXTINF:-1,UK: BT ESPN HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/44110
+http://iptvmedia.live:8080/test-f289cf/4218/44110
 #EXTINF:-1,UK BT ESPN HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221707
+http://iptvmedia.live:8080/test-f289cf/4218/221707
 #EXTINF:-1,UK: BT Sport 1 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/15131
+http://iptvmedia.live:8080/test-f289cf/4218/15131
 #EXTINF:-1,UK BT Sport 1 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220720
+http://iptvmedia.live:8080/test-f289cf/4218/220720
 #EXTINF:-1,UK: BT Sport 2 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/15132
+http://iptvmedia.live:8080/test-f289cf/4218/15132
 #EXTINF:-1,UK BT Sport 2 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/28345
+http://iptvmedia.live:8080/test-f289cf/4218/28345
 #EXTINF:-1,UK: BT Sport 3 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/15130
+http://iptvmedia.live:8080/test-f289cf/4218/15130
 #EXTINF:-1,UK BT Sport 3 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220719
+http://iptvmedia.live:8080/test-f289cf/4218/220719
 #EXTINF:-1,UK: BT Sport 1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/270
+http://iptvmedia.live:8080/test-f289cf/4218/270
 #EXTINF:-1,UK BT Sport 1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/28340
+http://iptvmedia.live:8080/test-f289cf/4218/28340
 #EXTINF:-1,UK: BT Sport 2 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/273
+http://iptvmedia.live:8080/test-f289cf/4218/273
 #EXTINF:-1,UK BT Sport 2 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/28344
+http://iptvmedia.live:8080/test-f289cf/4218/28344
 #EXTINF:-1,UK: BT Sport 3 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/271
+http://iptvmedia.live:8080/test-f289cf/4218/271
 #EXTINF:-1,UK BT Sport 3 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/28348
+http://iptvmedia.live:8080/test-f289cf/4218/28348
 #EXTINF:-1,UK: BT Sport ESPN FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/15128
+http://iptvmedia.live:8080/test-f289cf/4218/15128
 #EXTINF:-1,UK BT Sport ESPN FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220718
+http://iptvmedia.live:8080/test-f289cf/4218/220718
 #EXTINF:-1,UK: BT Sport eXtra 2 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/193636
+http://iptvmedia.live:8080/test-f289cf/4218/193636
 #EXTINF:-1,UK BT Sport eXtra 2 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220729
+http://iptvmedia.live:8080/test-f289cf/4218/220729
 #EXTINF:-1,UK: BT Sport eXtra 5 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/202045
+http://iptvmedia.live:8080/test-f289cf/4218/202045
 #EXTINF:-1,UK BT Sport eXtra 5 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220730
+http://iptvmedia.live:8080/test-f289cf/4218/220730
 #EXTINF:-1,UK: BT Sport eXtra FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/193633
+http://iptvmedia.live:8080/test-f289cf/4218/193633
 #EXTINF:-1,UK BT Sport eXtra FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220727
+http://iptvmedia.live:8080/test-f289cf/4218/220727
 #EXTINF:-1,UK: BT Sport ESPN HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1124
+http://iptvmedia.live:8080/test-f289cf/4218/1124
 #EXTINF:-1,UK BT Sport ESPN HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/28349
+http://iptvmedia.live:8080/test-f289cf/4218/28349
 #EXTINF:-1,UK: BT Sport eXtra 1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/7435
+http://iptvmedia.live:8080/test-f289cf/4218/7435
 #EXTINF:-1,UK BT Sport eXtra 1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220715
+http://iptvmedia.live:8080/test-f289cf/4218/220715
 #EXTINF:-1,UK: BT Sport eXtra 2 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/48713
+http://iptvmedia.live:8080/test-f289cf/4218/48713
 #EXTINF:-1,UK BT Sport eXtra 2 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220724
+http://iptvmedia.live:8080/test-f289cf/4218/220724
 #EXTINF:-1,UK: BT Sport Extra 3 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/7436
+http://iptvmedia.live:8080/test-f289cf/4218/7436
 #EXTINF:-1,UK BT Sport Extra 3 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220716
+http://iptvmedia.live:8080/test-f289cf/4218/220716
 #EXTINF:-1,UK: BT Sport eXtra 4 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/47961
+http://iptvmedia.live:8080/test-f289cf/4218/47961
 #EXTINF:-1,UK BT Sport eXtra 4 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220723
+http://iptvmedia.live:8080/test-f289cf/4218/220723
 #EXTINF:-1,UK: BT Sport eXtra 5 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/7438
+http://iptvmedia.live:8080/test-f289cf/4218/7438
 #EXTINF:-1,UK BT Sport eXtra 5 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220717
+http://iptvmedia.live:8080/test-f289cf/4218/220717
 #EXTINF:-1,UK: BT Sport Mosaic 2
-http://iptvmedia.live:8080/test-36cc9d/a59c/85305
+http://iptvmedia.live:8080/test-f289cf/4218/85305
 #EXTINF:-1,UK BT Sport Mosaic 2
-http://iptvmedia.live:8080/test-36cc9d/a59c/220725
+http://iptvmedia.live:8080/test-f289cf/4218/220725
 #EXTINF:-1,UK: CAPITAL TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/23115
+http://iptvmedia.live:8080/test-f289cf/4218/23115
 #EXTINF:-1,UK: Cartoon Network FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/720
+http://iptvmedia.live:8080/test-f289cf/4218/720
 #EXTINF:-1,UK Cartoon Network FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/50920
+http://iptvmedia.live:8080/test-f289cf/4218/50920
 #EXTINF:-1,UK: Cartoonito FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1546
+http://iptvmedia.live:8080/test-f289cf/4218/1546
 #EXTINF:-1,UK Cartoonito HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/50919
+http://iptvmedia.live:8080/test-f289cf/4218/50919
 #EXTINF:-1,UK: CBBC FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4754
+http://iptvmedia.live:8080/test-f289cf/4218/4754
 #EXTINF:-1,UK: CBeebies FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4753
+http://iptvmedia.live:8080/test-f289cf/4218/4753
 #EXTINF:-1,UK CBeebies FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220705
+http://iptvmedia.live:8080/test-f289cf/4218/220705
 #EXTINF:-1,UK: CBS ACTION HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/10617
+http://iptvmedia.live:8080/test-f289cf/4218/10617
 #EXTINF:-1,UK: CBS Drama HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1123
+http://iptvmedia.live:8080/test-f289cf/4218/1123
 #EXTINF:-1,UK: CBS Justice HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1122
+http://iptvmedia.live:8080/test-f289cf/4218/1122
 #EXTINF:-1,UK: CBS Reality +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/4647
+http://iptvmedia.live:8080/test-f289cf/4218/4647
 #EXTINF:-1,UK: CBS REALITY 1
-http://iptvmedia.live:8080/test-36cc9d/a59c/202086
+http://iptvmedia.live:8080/test-f289cf/4218/202086
 #EXTINF:-1,UK: CBS Reality HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1121
+http://iptvmedia.live:8080/test-f289cf/4218/1121
 #EXTINF:-1,UK: CBSN News HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11582
+http://iptvmedia.live:8080/test-f289cf/4218/11582
 #EXTINF:-1,UK: CGTN Documentary
-http://iptvmedia.live:8080/test-36cc9d/a59c/4819
+http://iptvmedia.live:8080/test-f289cf/4218/4819
 #EXTINF:-1,UK: CGTN HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/157252
+http://iptvmedia.live:8080/test-f289cf/4218/157252
 #EXTINF:-1,UK: CGTN News
-http://iptvmedia.live:8080/test-36cc9d/a59c/4818
+http://iptvmedia.live:8080/test-f289cf/4218/4818
 #EXTINF:-1,UK: Challenge HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4641
+http://iptvmedia.live:8080/test-f289cf/4218/4641
 #EXTINF:-1,UK: Channel 4 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1120
+http://iptvmedia.live:8080/test-f289cf/4218/1120
 #EXTINF:-1,UK: Channel 5 +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/145792
+http://iptvmedia.live:8080/test-f289cf/4218/145792
 #EXTINF:-1,UK: Channel 5 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1119
+http://iptvmedia.live:8080/test-f289cf/4218/1119
 #EXTINF:-1,UK: Channel AKA
-http://iptvmedia.live:8080/test-36cc9d/a59c/65074
+http://iptvmedia.live:8080/test-f289cf/4218/65074
 #EXTINF:-1,UK: Chelsea TV HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/77283
+http://iptvmedia.live:8080/test-f289cf/4218/77283
 #EXTINF:-1,UK: CHSTV
-http://iptvmedia.live:8080/test-36cc9d/a59c/157282
+http://iptvmedia.live:8080/test-f289cf/4218/157282
 #EXTINF:-1,UK: CITV FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1548
+http://iptvmedia.live:8080/test-f289cf/4218/1548
 #EXTINF:-1,UK: Club MTV
-http://iptvmedia.live:8080/test-36cc9d/a59c/17054
+http://iptvmedia.live:8080/test-f289cf/4218/17054
 #EXTINF:-1,UK: Clubland
-http://iptvmedia.live:8080/test-36cc9d/a59c/144752
+http://iptvmedia.live:8080/test-f289cf/4218/144752
 #EXTINF:-1,UK: CNA
-http://iptvmedia.live:8080/test-36cc9d/a59c/60298
+http://iptvmedia.live:8080/test-f289cf/4218/60298
 #EXTINF:-1,UK: CNBC Europe
-http://iptvmedia.live:8080/test-36cc9d/a59c/171945
+http://iptvmedia.live:8080/test-f289cf/4218/171945
 #EXTINF:-1,UK: CNBC HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11562
+http://iptvmedia.live:8080/test-f289cf/4218/11562
 #EXTINF:-1,UK: CNBC News HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/165914
+http://iptvmedia.live:8080/test-f289cf/4218/165914
 #EXTINF:-1,UK: CNN HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1547
+http://iptvmedia.live:8080/test-f289cf/4218/1547
 #EXTINF:-1,UK: CNN International
-http://iptvmedia.live:8080/test-36cc9d/a59c/168911
+http://iptvmedia.live:8080/test-f289cf/4218/168911
 #EXTINF:-1,UK: CNN News HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/120435
+http://iptvmedia.live:8080/test-f289cf/4218/120435
 #EXTINF:-1,UK: CNN US HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/148004
+http://iptvmedia.live:8080/test-f289cf/4218/148004
 #EXTINF:-1,UK: Comedy Central Extra HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4656
+http://iptvmedia.live:8080/test-f289cf/4218/4656
 #EXTINF:-1,UK: Comedy Central FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1118
+http://iptvmedia.live:8080/test-f289cf/4218/1118
 #EXTINF:-1,UK: Comedy Xtra
-http://iptvmedia.live:8080/test-36cc9d/a59c/148002
+http://iptvmedia.live:8080/test-f289cf/4218/148002
 #EXTINF:-1,UK: Court TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/201130
+http://iptvmedia.live:8080/test-f289cf/4218/201130
 #EXTINF:-1,UK: Create & Craft
-http://iptvmedia.live:8080/test-36cc9d/a59c/48610
+http://iptvmedia.live:8080/test-f289cf/4218/48610
 #EXTINF:-1,UK: Crime
-http://iptvmedia.live:8080/test-36cc9d/a59c/227100
+http://iptvmedia.live:8080/test-f289cf/4218/227100
 #EXTINF:-1,UK: Crime+ Investigation FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1549
+http://iptvmedia.live:8080/test-f289cf/4218/1549
 #EXTINF:-1,UK Crime+ Investigation FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220011
+http://iptvmedia.live:8080/test-f289cf/4218/220011
 #EXTINF:-1,UK: Cruise 1st TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/166648
+http://iptvmedia.live:8080/test-f289cf/4218/166648
 #EXTINF:-1,UK: Darama
-http://iptvmedia.live:8080/test-36cc9d/a59c/60355
+http://iptvmedia.live:8080/test-f289cf/4218/60355
 #EXTINF:-1,UK: Dave FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/733
+http://iptvmedia.live:8080/test-f289cf/4218/733
 #EXTINF:-1,UK: Dave Ja Vu
-http://iptvmedia.live:8080/test-36cc9d/a59c/17031
+http://iptvmedia.live:8080/test-f289cf/4218/17031
 #EXTINF:-1,UK: Destination America
-http://iptvmedia.live:8080/test-36cc9d/a59c/36962
+http://iptvmedia.live:8080/test-f289cf/4218/36962
 #EXTINF:-1,UK: Discovery Channel FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/708
+http://iptvmedia.live:8080/test-f289cf/4218/708
 #EXTINF:-1,UK Discovery Channel FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220370
+http://iptvmedia.live:8080/test-f289cf/4218/220370
 #EXTINF:-1,UK: Discovery H&H +1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/158589
+http://iptvmedia.live:8080/test-f289cf/4218/158589
 #EXTINF:-1,UK Discovery H&H +1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220550
+http://iptvmedia.live:8080/test-f289cf/4218/220550
 #EXTINF:-1,UK: Discovery H&H HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4829
+http://iptvmedia.live:8080/test-f289cf/4218/4829
 #EXTINF:-1,UK Discovery H&H HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220408
+http://iptvmedia.live:8080/test-f289cf/4218/220408
 #EXTINF:-1,UK: Discovery History FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/694
+http://iptvmedia.live:8080/test-f289cf/4218/694
 #EXTINF:-1,UK Discovery History FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220369
+http://iptvmedia.live:8080/test-f289cf/4218/220369
 #EXTINF:-1,UK: Discovery Science FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/713
+http://iptvmedia.live:8080/test-f289cf/4218/713
 #EXTINF:-1,UK Discovery Science FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220371
+http://iptvmedia.live:8080/test-f289cf/4218/220371
 #EXTINF:-1,UK: Discovery Shed FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1550
+http://iptvmedia.live:8080/test-f289cf/4218/1550
 #EXTINF:-1,UK Discovery Shed FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220379
+http://iptvmedia.live:8080/test-f289cf/4218/220379
 #EXTINF:-1,UK: Discovery Turbo FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1114
+http://iptvmedia.live:8080/test-f289cf/4218/1114
 #EXTINF:-1,UK Discovery Turbo FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220375
+http://iptvmedia.live:8080/test-f289cf/4218/220375
 #EXTINF:-1,UK: Disney Channel FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1113
+http://iptvmedia.live:8080/test-f289cf/4218/1113
 #EXTINF:-1,UK Disney Channel FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221211
+http://iptvmedia.live:8080/test-f289cf/4218/221211
 #EXTINF:-1,UK: Disney Junior FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1112
+http://iptvmedia.live:8080/test-f289cf/4218/1112
 #EXTINF:-1,UK Disney Junior HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/50898
+http://iptvmedia.live:8080/test-f289cf/4218/50898
 #EXTINF:-1,UK: Disney XD FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1111
+http://iptvmedia.live:8080/test-f289cf/4218/1111
 #EXTINF:-1,UK Disney XD FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221210
+http://iptvmedia.live:8080/test-f289cf/4218/221210
 #EXTINF:-1,UK: Disney+
-http://iptvmedia.live:8080/test-36cc9d/a59c/260431
+http://iptvmedia.live:8080/test-f289cf/4218/260431
 #EXTINF:-1,UK: DMAX HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1604
+http://iptvmedia.live:8080/test-f289cf/4218/1604
 #EXTINF:-1,UK DMAX HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221316
+http://iptvmedia.live:8080/test-f289cf/4218/221316
 #EXTINF:-1,UK: Drama Channel
-http://iptvmedia.live:8080/test-36cc9d/a59c/4638
+http://iptvmedia.live:8080/test-f289cf/4218/4638
 #EXTINF:-1,UK: Duck TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/144753
+http://iptvmedia.live:8080/test-f289cf/4218/144753
 #EXTINF:-1,UK: DW
-http://iptvmedia.live:8080/test-36cc9d/a59c/19276
+http://iptvmedia.live:8080/test-f289cf/4218/19276
 #EXTINF:-1,UK: DW English
-http://iptvmedia.live:8080/test-36cc9d/a59c/148005
+http://iptvmedia.live:8080/test-f289cf/4218/148005
 #EXTINF:-1,UK: E! FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1542
+http://iptvmedia.live:8080/test-f289cf/4218/1542
 #EXTINF:-1,UK E! FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221814
+http://iptvmedia.live:8080/test-f289cf/4218/221814
 #EXTINF:-1,UK: E4 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1110
+http://iptvmedia.live:8080/test-f289cf/4218/1110
 #EXTINF:-1,UK: Eden HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1109
+http://iptvmedia.live:8080/test-f289cf/4218/1109
 #EXTINF:-1,UK: Edge Sport FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/54012
+http://iptvmedia.live:8080/test-f289cf/4218/54012
 #EXTINF:-1,UK: EIR SPORTS 1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4725
+http://iptvmedia.live:8080/test-f289cf/4218/4725
 #EXTINF:-1,UK: EIR SPORTS 2 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/165915
+http://iptvmedia.live:8080/test-f289cf/4218/165915
 #EXTINF:-1,UK: ELEVEN SPORTS 2 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/48406
+http://iptvmedia.live:8080/test-f289cf/4218/48406
 #EXTINF:-1,UK: ELEVEN SPORTS HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/23514
+http://iptvmedia.live:8080/test-f289cf/4218/23514
 #EXTINF:-1,UK: ESPN HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/44557
+http://iptvmedia.live:8080/test-f289cf/4218/44557
 #EXTINF:-1,UK ESPN HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221708
+http://iptvmedia.live:8080/test-f289cf/4218/221708
 #EXTINF:-1,UK: euronews FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1554
+http://iptvmedia.live:8080/test-f289cf/4218/1554
 #EXTINF:-1,UK: EUROSPORT 1 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/692
+http://iptvmedia.live:8080/test-f289cf/4218/692
 #EXTINF:-1,UK EUROSPORT 1 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220283
+http://iptvmedia.live:8080/test-f289cf/4218/220283
 #EXTINF:-1,UK: EUROSPORT 2 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1555
+http://iptvmedia.live:8080/test-f289cf/4218/1555
 #EXTINF:-1,UK EUROSPORT 2 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220291
+http://iptvmedia.live:8080/test-f289cf/4218/220291
 #EXTINF:-1,UK: EWTN Catholic
-http://iptvmedia.live:8080/test-36cc9d/a59c/157283
+http://iptvmedia.live:8080/test-f289cf/4218/157283
 #EXTINF:-1,UK: FC Liverpool TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/28015
+http://iptvmedia.live:8080/test-f289cf/4218/28015
 #EXTINF:-1,UK: FC Manchester United
-http://iptvmedia.live:8080/test-36cc9d/a59c/157394
+http://iptvmedia.live:8080/test-f289cf/4218/157394
 #EXTINF:-1,UK: FIGHT BOX FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11485
+http://iptvmedia.live:8080/test-f289cf/4218/11485
 #EXTINF:-1,UK FIGHT BOX FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220631
+http://iptvmedia.live:8080/test-f289cf/4218/220631
 #EXTINF:-1,UK: FIGHT Channel
-http://iptvmedia.live:8080/test-36cc9d/a59c/33572
+http://iptvmedia.live:8080/test-f289cf/4218/33572
 #EXTINF:-1,UK: FIGHT Channel World
-http://iptvmedia.live:8080/test-36cc9d/a59c/157398
+http://iptvmedia.live:8080/test-f289cf/4218/157398
 #EXTINF:-1,UK: FIGHT Sport
-http://iptvmedia.live:8080/test-36cc9d/a59c/157399
+http://iptvmedia.live:8080/test-f289cf/4218/157399
 #EXTINF:-1,UK: Film 4 +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/165919
+http://iptvmedia.live:8080/test-f289cf/4218/165919
 #EXTINF:-1,UK: Film 4 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1541
+http://iptvmedia.live:8080/test-f289cf/4218/1541
 #EXTINF:-1,UK: Fine Living
-http://iptvmedia.live:8080/test-36cc9d/a59c/12515
+http://iptvmedia.live:8080/test-f289cf/4218/12515
 #EXTINF:-1,UK: FOOD
-http://iptvmedia.live:8080/test-36cc9d/a59c/227101
+http://iptvmedia.live:8080/test-f289cf/4218/227101
 #EXTINF:-1,UK: FOOD NETWORK +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/4659
+http://iptvmedia.live:8080/test-f289cf/4218/4659
 #EXTINF:-1,UK: Food Network FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4658
+http://iptvmedia.live:8080/test-f289cf/4218/4658
 #EXTINF:-1,UK: FOX FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/55549
+http://iptvmedia.live:8080/test-f289cf/4218/55549
 #EXTINF:-1,UK: Fox News HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1611
+http://iptvmedia.live:8080/test-f289cf/4218/1611
 #EXTINF:-1,UK: FOX SPORTS News
-http://iptvmedia.live:8080/test-36cc9d/a59c/194875
+http://iptvmedia.live:8080/test-f289cf/4218/194875
 #EXTINF:-1,UK: France 24 English
-http://iptvmedia.live:8080/test-36cc9d/a59c/173226
+http://iptvmedia.live:8080/test-f289cf/4218/173226
 #EXTINF:-1,UK: France 24 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11560
+http://iptvmedia.live:8080/test-f289cf/4218/11560
 #EXTINF:-1,UK: Free Sports HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/37876
+http://iptvmedia.live:8080/test-f289cf/4218/37876
 #EXTINF:-1,UK: FUEL TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/227102
+http://iptvmedia.live:8080/test-f289cf/4218/227102
 #EXTINF:-1,UK: Geo News
-http://iptvmedia.live:8080/test-36cc9d/a59c/17095
+http://iptvmedia.live:8080/test-f289cf/4218/17095
 #EXTINF:-1,UK: Ginx eSports TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/192866
+http://iptvmedia.live:8080/test-f289cf/4218/192866
 #EXTINF:-1,UK: GOD TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/22338
+http://iptvmedia.live:8080/test-f289cf/4218/22338
 #EXTINF:-1,UK: GOLD FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1108
+http://iptvmedia.live:8080/test-f289cf/4218/1108
 #EXTINF:-1,UK: Good Food HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11450
+http://iptvmedia.live:8080/test-f289cf/4218/11450
 #EXTINF:-1,UK: Good News TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/201133
+http://iptvmedia.live:8080/test-f289cf/4218/201133
 #EXTINF:-1,UK: H&h
-http://iptvmedia.live:8080/test-36cc9d/a59c/163129
+http://iptvmedia.live:8080/test-f289cf/4218/163129
 #EXTINF:-1,UK: H2 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1601
+http://iptvmedia.live:8080/test-f289cf/4218/1601
 #EXTINF:-1,UK: HBO Comedy HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/151864
+http://iptvmedia.live:8080/test-f289cf/4218/151864
 #EXTINF:-1,UK: Hidayat TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/165994
+http://iptvmedia.live:8080/test-f289cf/4218/165994
 #EXTINF:-1,UK: Hillsong Channel
-http://iptvmedia.live:8080/test-36cc9d/a59c/63165
+http://iptvmedia.live:8080/test-f289cf/4218/63165
 #EXTINF:-1,UK: History Channel 2 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/192857
+http://iptvmedia.live:8080/test-f289cf/4218/192857
 #EXTINF:-1,UK History Channel 2 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220951
+http://iptvmedia.live:8080/test-f289cf/4218/220951
 #EXTINF:-1,UK: History Channel FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1107
+http://iptvmedia.live:8080/test-f289cf/4218/1107
 #EXTINF:-1,UK History Channel FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220879
+http://iptvmedia.live:8080/test-f289cf/4218/220879
 #EXTINF:-1,UK: Hochanda
-http://iptvmedia.live:8080/test-36cc9d/a59c/157284
+http://iptvmedia.live:8080/test-f289cf/4218/157284
 #EXTINF:-1,UK: Home & Health
-http://iptvmedia.live:8080/test-36cc9d/a59c/173193
+http://iptvmedia.live:8080/test-f289cf/4218/173193
 #EXTINF:-1,UK: Home HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1600
+http://iptvmedia.live:8080/test-f289cf/4218/1600
 #EXTINF:-1,UK: Horror Channel FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/736
+http://iptvmedia.live:8080/test-f289cf/4218/736
 #EXTINF:-1,UK: Horse & Country HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11492
+http://iptvmedia.live:8080/test-f289cf/4218/11492
 #EXTINF:-1,UK: HUM EUROPE
-http://iptvmedia.live:8080/test-36cc9d/a59c/121303
+http://iptvmedia.live:8080/test-f289cf/4218/121303
 #EXTINF:-1,UK: Hum News
-http://iptvmedia.live:8080/test-36cc9d/a59c/48826
+http://iptvmedia.live:8080/test-f289cf/4218/48826
 #EXTINF:-1,UK: iConcerts HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/17059
+http://iptvmedia.live:8080/test-f289cf/4218/17059
 #EXTINF:-1,UK: Info Corona Virus
-http://iptvmedia.live:8080/test-36cc9d/a59c/122206
+http://iptvmedia.live:8080/test-f289cf/4218/122206
 #EXTINF:-1,UK: Investigation Discovery HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/734
+http://iptvmedia.live:8080/test-f289cf/4218/734
 #EXTINF:-1,UK Investigation Discovery HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220372
+http://iptvmedia.live:8080/test-f289cf/4218/220372
 #EXTINF:-1,UK: IQRA United Kingdon
-http://iptvmedia.live:8080/test-36cc9d/a59c/165982
+http://iptvmedia.live:8080/test-f289cf/4218/165982
 #EXTINF:-1,UK: Islam TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/166650
+http://iptvmedia.live:8080/test-f289cf/4218/166650
 #EXTINF:-1,UK: itv +1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/165901
+http://iptvmedia.live:8080/test-f289cf/4218/165901
 #EXTINF:-1,UK: itv 1 +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/145786
+http://iptvmedia.live:8080/test-f289cf/4218/145786
 #EXTINF:-1,UK: itv 1 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/689
+http://iptvmedia.live:8080/test-f289cf/4218/689
 #EXTINF:-1,UK: itv 2 +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/145744
+http://iptvmedia.live:8080/test-f289cf/4218/145744
 #EXTINF:-1,UK: itv 2 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/690
+http://iptvmedia.live:8080/test-f289cf/4218/690
 #EXTINF:-1,UK: itv 3 +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/145787
+http://iptvmedia.live:8080/test-f289cf/4218/145787
 #EXTINF:-1,UK: itv 3 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/703
+http://iptvmedia.live:8080/test-f289cf/4218/703
 #EXTINF:-1,UK: itv 4 + 1
-http://iptvmedia.live:8080/test-36cc9d/a59c/65105
+http://iptvmedia.live:8080/test-f289cf/4218/65105
 #EXTINF:-1,UK: itv 4 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/691
+http://iptvmedia.live:8080/test-f289cf/4218/691
 #EXTINF:-1,UK: itv Anglia East
-http://iptvmedia.live:8080/test-36cc9d/a59c/260422
+http://iptvmedia.live:8080/test-f289cf/4218/260422
 #EXTINF:-1,UK: itv Anglia West
-http://iptvmedia.live:8080/test-36cc9d/a59c/260423
+http://iptvmedia.live:8080/test-f289cf/4218/260423
 #EXTINF:-1,UK: itv BE FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1560
+http://iptvmedia.live:8080/test-f289cf/4218/1560
 #EXTINF:-1,UK: itv Border Scotland
-http://iptvmedia.live:8080/test-36cc9d/a59c/260424
+http://iptvmedia.live:8080/test-f289cf/4218/260424
 #EXTINF:-1,UK: itv Central East
-http://iptvmedia.live:8080/test-36cc9d/a59c/260425
+http://iptvmedia.live:8080/test-f289cf/4218/260425
 #EXTINF:-1,UK: itv Encore
-http://iptvmedia.live:8080/test-36cc9d/a59c/4807
+http://iptvmedia.live:8080/test-f289cf/4218/4807
 #EXTINF:-1,UK: itv FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/5878
+http://iptvmedia.live:8080/test-f289cf/4218/5878
 #EXTINF:-1,UK: itv Granada
-http://iptvmedia.live:8080/test-36cc9d/a59c/157254
+http://iptvmedia.live:8080/test-f289cf/4218/157254
 #EXTINF:-1,UK: itv London
-http://iptvmedia.live:8080/test-36cc9d/a59c/166652
+http://iptvmedia.live:8080/test-f289cf/4218/166652
 #EXTINF:-1,UK: itv Meridian East
-http://iptvmedia.live:8080/test-36cc9d/a59c/157264
+http://iptvmedia.live:8080/test-f289cf/4218/157264
 #EXTINF:-1,UK: itv Meridian South Coast
-http://iptvmedia.live:8080/test-36cc9d/a59c/260426
+http://iptvmedia.live:8080/test-f289cf/4218/260426
 #EXTINF:-1,UK: itv Tyne Tees
-http://iptvmedia.live:8080/test-36cc9d/a59c/260427
+http://iptvmedia.live:8080/test-f289cf/4218/260427
 #EXTINF:-1,UK: itv Wales HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/260428
+http://iptvmedia.live:8080/test-f289cf/4218/260428
 #EXTINF:-1,UK: itv West Country West
-http://iptvmedia.live:8080/test-36cc9d/a59c/260429
+http://iptvmedia.live:8080/test-f289cf/4218/260429
 #EXTINF:-1,UK: itv Westcountry South West
-http://iptvmedia.live:8080/test-36cc9d/a59c/260430
+http://iptvmedia.live:8080/test-f289cf/4218/260430
 #EXTINF:-1,UK: Jewellery Maker
-http://iptvmedia.live:8080/test-36cc9d/a59c/166001
+http://iptvmedia.live:8080/test-f289cf/4218/166001
 #EXTINF:-1,UK: Kanshi TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/166018
+http://iptvmedia.live:8080/test-f289cf/4218/166018
 #EXTINF:-1,UK: Kerrang! TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/62714
+http://iptvmedia.live:8080/test-f289cf/4218/62714
 #EXTINF:-1,UK: Kicc TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/7550
+http://iptvmedia.live:8080/test-f289cf/4218/7550
 #EXTINF:-1,UK: Kiss Music TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/157279
+http://iptvmedia.live:8080/test-f289cf/4218/157279
 #EXTINF:-1,UK Kiss Music TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/221467
+http://iptvmedia.live:8080/test-f289cf/4218/221467
 #EXTINF:-1,UK: Kiss TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/4746
+http://iptvmedia.live:8080/test-f289cf/4218/4746
 #EXTINF:-1,UK: KIX
-http://iptvmedia.live:8080/test-36cc9d/a59c/17491
+http://iptvmedia.live:8080/test-f289cf/4218/17491
 #EXTINF:-1,UK: LA Muscle TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/166022
+http://iptvmedia.live:8080/test-f289cf/4218/166022
 #EXTINF:-1,UK: LaLiga TV FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/201211
+http://iptvmedia.live:8080/test-f289cf/4218/201211
 #EXTINF:-1,UK: LaLiga TV HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/187336
+http://iptvmedia.live:8080/test-f289cf/4218/187336
 #EXTINF:-1,UK: LCBN
-http://iptvmedia.live:8080/test-36cc9d/a59c/166026
+http://iptvmedia.live:8080/test-f289cf/4218/166026
 #EXTINF:-1,UK: LFC Liverpool TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/195719
+http://iptvmedia.live:8080/test-f289cf/4218/195719
 #EXTINF:-1,UK: LFC TV FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4721
+http://iptvmedia.live:8080/test-f289cf/4218/4721
 #EXTINF:-1,UK: Lifetime HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4667
+http://iptvmedia.live:8080/test-f289cf/4218/4667
 #EXTINF:-1,UK: Liverpool FC FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/72700
+http://iptvmedia.live:8080/test-f289cf/4218/72700
 #EXTINF:-1,UK: Liverpool TV HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/170002
+http://iptvmedia.live:8080/test-f289cf/4218/170002
 #EXTINF:-1,UK: London Live HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11459
+http://iptvmedia.live:8080/test-f289cf/4218/11459
 #EXTINF:-1,UK: Love Nature FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/78665
+http://iptvmedia.live:8080/test-f289cf/4218/78665
 #EXTINF:-1,UK: Madani Channel
-http://iptvmedia.live:8080/test-36cc9d/a59c/166722
+http://iptvmedia.live:8080/test-f289cf/4218/166722
 #EXTINF:-1,UK: Magic HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4745
+http://iptvmedia.live:8080/test-f289cf/4218/4745
 #EXTINF:-1,UK: Medina Live HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/231503
+http://iptvmedia.live:8080/test-f289cf/4218/231503
 #EXTINF:-1,UK: More4 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/738
+http://iptvmedia.live:8080/test-f289cf/4218/738
 #EXTINF:-1,UK: Motor sport TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/74359
+http://iptvmedia.live:8080/test-f289cf/4218/74359
 #EXTINF:-1,UK: Motor Trend
-http://iptvmedia.live:8080/test-36cc9d/a59c/194860
+http://iptvmedia.live:8080/test-f289cf/4218/194860
 #EXTINF:-1,UK: MOTORS TV FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11712
+http://iptvmedia.live:8080/test-f289cf/4218/11712
 #EXTINF:-1,UK: Movie Drama HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/712
+http://iptvmedia.live:8080/test-f289cf/4218/712
 #EXTINF:-1,UK: Movies 4 Men
-http://iptvmedia.live:8080/test-36cc9d/a59c/11713
+http://iptvmedia.live:8080/test-f289cf/4218/11713
 #EXTINF:-1,UK: Movies 24
-http://iptvmedia.live:8080/test-36cc9d/a59c/74386
+http://iptvmedia.live:8080/test-f289cf/4218/74386
 #EXTINF:-1,UK: Movies4Men
-http://iptvmedia.live:8080/test-36cc9d/a59c/196393
+http://iptvmedia.live:8080/test-f289cf/4218/196393
 #EXTINF:-1,UK: MSNBC TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/74431
+http://iptvmedia.live:8080/test-f289cf/4218/74431
 #EXTINF:-1,UK: MTV 24 Music
-http://iptvmedia.live:8080/test-36cc9d/a59c/157275
+http://iptvmedia.live:8080/test-f289cf/4218/157275
 #EXTINF:-1,UK MTV 24 Music
-http://iptvmedia.live:8080/test-36cc9d/a59c/221466
+http://iptvmedia.live:8080/test-f289cf/4218/221466
 #EXTINF:-1,UK: MTV 90s
-http://iptvmedia.live:8080/test-36cc9d/a59c/91052
+http://iptvmedia.live:8080/test-f289cf/4218/91052
 #EXTINF:-1,UK: MTV Base HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4733
+http://iptvmedia.live:8080/test-f289cf/4218/4733
 #EXTINF:-1,UK MTV Base HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220681
+http://iptvmedia.live:8080/test-f289cf/4218/220681
 #EXTINF:-1,UK: MTV Classic HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4735
+http://iptvmedia.live:8080/test-f289cf/4218/4735
 #EXTINF:-1,UK MTV Classic HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220213
+http://iptvmedia.live:8080/test-f289cf/4218/220213
 #EXTINF:-1,UK: MTV Dance HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11715
+http://iptvmedia.live:8080/test-f289cf/4218/11715
 #EXTINF:-1,UK MTV Dance HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220641
+http://iptvmedia.live:8080/test-f289cf/4218/220641
 #EXTINF:-1,UK: MTV FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4728
+http://iptvmedia.live:8080/test-f289cf/4218/4728
 #EXTINF:-1,UK: MTV Hits FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4736
+http://iptvmedia.live:8080/test-f289cf/4218/4736
 #EXTINF:-1,UK MTV Hits FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220732
+http://iptvmedia.live:8080/test-f289cf/4218/220732
 #EXTINF:-1,UK: MTV Live FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/21860
+http://iptvmedia.live:8080/test-f289cf/4218/21860
 #EXTINF:-1,UK MTV Live FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220747
+http://iptvmedia.live:8080/test-f289cf/4218/220747
 #EXTINF:-1,UK: MTV Music FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4731
+http://iptvmedia.live:8080/test-f289cf/4218/4731
 #EXTINF:-1,UK MTV Music FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220263
+http://iptvmedia.live:8080/test-f289cf/4218/220263
 #EXTINF:-1,UK: MTV OMG HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4737
+http://iptvmedia.live:8080/test-f289cf/4218/4737
 #EXTINF:-1,UK: MTV Rocks HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4738
+http://iptvmedia.live:8080/test-f289cf/4218/4738
 #EXTINF:-1,UK MTV Rocks HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220756
+http://iptvmedia.live:8080/test-f289cf/4218/220756
 #EXTINF:-1,UK: Music Box
-http://iptvmedia.live:8080/test-36cc9d/a59c/171944
+http://iptvmedia.live:8080/test-f289cf/4218/171944
 #EXTINF:-1,UK Music Box
-http://iptvmedia.live:8080/test-36cc9d/a59c/221484
+http://iptvmedia.live:8080/test-f289cf/4218/221484
 #EXTINF:-1,UK: MUTV FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1102
+http://iptvmedia.live:8080/test-f289cf/4218/1102
 #EXTINF:-1,UK: MYTV
-http://iptvmedia.live:8080/test-36cc9d/a59c/11470
+http://iptvmedia.live:8080/test-f289cf/4218/11470
 #EXTINF:-1,UK: NAT GEO FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1101
+http://iptvmedia.live:8080/test-f289cf/4218/1101
 #EXTINF:-1,UK NAT GEO FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220774
+http://iptvmedia.live:8080/test-f289cf/4218/220774
 #EXTINF:-1,UK: NAT GEO People
-http://iptvmedia.live:8080/test-36cc9d/a59c/36973
+http://iptvmedia.live:8080/test-f289cf/4218/36973
 #EXTINF:-1,UK NAT GEO People
-http://iptvmedia.live:8080/test-36cc9d/a59c/220824
+http://iptvmedia.live:8080/test-f289cf/4218/220824
 #EXTINF:-1,UK: NAT GEO Wild FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/724
+http://iptvmedia.live:8080/test-f289cf/4218/724
 #EXTINF:-1,UK NAT GEO Wild FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220770
+http://iptvmedia.live:8080/test-f289cf/4218/220770
 #EXTINF:-1,UK: NBA
-http://iptvmedia.live:8080/test-36cc9d/a59c/182451
+http://iptvmedia.live:8080/test-f289cf/4218/182451
 #EXTINF:-1,UK: News Max
-http://iptvmedia.live:8080/test-36cc9d/a59c/65063
+http://iptvmedia.live:8080/test-f289cf/4218/65063
 #EXTINF:-1,UK: NHK World News HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/165913
+http://iptvmedia.live:8080/test-f289cf/4218/165913
 #EXTINF:-1,UK: NHK World TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/198805
+http://iptvmedia.live:8080/test-f289cf/4218/198805
 #EXTINF:-1,UK: Nick Junior 2 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/165930
+http://iptvmedia.live:8080/test-f289cf/4218/165930
 #EXTINF:-1,UK Nick Junior 2 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221190
+http://iptvmedia.live:8080/test-f289cf/4218/221190
 #EXTINF:-1,UK: Nick Junior FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1098
+http://iptvmedia.live:8080/test-f289cf/4218/1098
 #EXTINF:-1,UK Nick Junior FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221130
+http://iptvmedia.live:8080/test-f289cf/4218/221130
 #EXTINF:-1,UK: Nick Junior Peppa FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/48766
+http://iptvmedia.live:8080/test-f289cf/4218/48766
 #EXTINF:-1,UK Nick Junior Peppa FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221164
+http://iptvmedia.live:8080/test-f289cf/4218/221164
 #EXTINF:-1,UK: Nick Junior TOO HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4759
+http://iptvmedia.live:8080/test-f289cf/4218/4759
 #EXTINF:-1,UK Nick Junior TOO HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221138
+http://iptvmedia.live:8080/test-f289cf/4218/221138
 #EXTINF:-1,UK: NICKELEDION JR
-http://iptvmedia.live:8080/test-36cc9d/a59c/32459
+http://iptvmedia.live:8080/test-f289cf/4218/32459
 #EXTINF:-1,UK NICKELEDION JR
-http://iptvmedia.live:8080/test-36cc9d/a59c/221587
+http://iptvmedia.live:8080/test-f289cf/4218/221587
 #EXTINF:-1,UK: nickelodeon FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1099
+http://iptvmedia.live:8080/test-f289cf/4218/1099
 #EXTINF:-1,UK nickelodeon FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221553
+http://iptvmedia.live:8080/test-f289cf/4218/221553
 #EXTINF:-1,UK: nicktoons FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/740
+http://iptvmedia.live:8080/test-f289cf/4218/740
 #EXTINF:-1,UK nicktoons FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221551
+http://iptvmedia.live:8080/test-f289cf/4218/221551
 #EXTINF:-1,UK: Noor TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/165369
+http://iptvmedia.live:8080/test-f289cf/4218/165369
 #EXTINF:-1,UK: NOW 90s
-http://iptvmedia.live:8080/test-36cc9d/a59c/157335
+http://iptvmedia.live:8080/test-f289cf/4218/157335
 #EXTINF:-1,UK: NTV
-http://iptvmedia.live:8080/test-36cc9d/a59c/11552
+http://iptvmedia.live:8080/test-f289cf/4218/11552
 #EXTINF:-1,UK: PARAMOUNT
-http://iptvmedia.live:8080/test-36cc9d/a59c/200948
+http://iptvmedia.live:8080/test-f289cf/4218/200948
 #EXTINF:-1,UK: Paramount Network HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4637
+http://iptvmedia.live:8080/test-f289cf/4218/4637
 #EXTINF:-1,UK: PBS America
-http://iptvmedia.live:8080/test-36cc9d/a59c/11720
+http://iptvmedia.live:8080/test-f289cf/4218/11720
 #EXTINF:-1,UK: Pick HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1578
+http://iptvmedia.live:8080/test-f289cf/4218/1578
 #EXTINF:-1,UK: PoP +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/165932
+http://iptvmedia.live:8080/test-f289cf/4218/165932
 #EXTINF:-1,UK: POP Channel
-http://iptvmedia.live:8080/test-36cc9d/a59c/1599
+http://iptvmedia.live:8080/test-f289cf/4218/1599
 #EXTINF:-1,UK: POP Kids
-http://iptvmedia.live:8080/test-36cc9d/a59c/198077
+http://iptvmedia.live:8080/test-f289cf/4218/198077
 #EXTINF:-1,UK: Pop Max HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1598
+http://iptvmedia.live:8080/test-f289cf/4218/1598
 #EXTINF:-1,UK: POP Max+1
-http://iptvmedia.live:8080/test-36cc9d/a59c/11525
+http://iptvmedia.live:8080/test-f289cf/4218/11525
 #EXTINF:-1,UK: PREMIER SPORTS 2 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4723
+http://iptvmedia.live:8080/test-f289cf/4218/4723
 #EXTINF:-1,UK: PREMIER SPORTS FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1097
+http://iptvmedia.live:8080/test-f289cf/4218/1097
 #EXTINF:-1,UK: Premium Sport 1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1552
+http://iptvmedia.live:8080/test-f289cf/4218/1552
 #EXTINF:-1,UK: Prime TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/199253
+http://iptvmedia.live:8080/test-f289cf/4218/199253
 #EXTINF:-1,UK: QUEST +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/165904
+http://iptvmedia.live:8080/test-f289cf/4218/165904
 #EXTINF:-1,UK: Quest FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1096
+http://iptvmedia.live:8080/test-f289cf/4218/1096
 #EXTINF:-1,UK: Quest Red +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/201131
+http://iptvmedia.live:8080/test-f289cf/4218/201131
 #EXTINF:-1,UK: Quest Red HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1577
+http://iptvmedia.live:8080/test-f289cf/4218/1577
 #EXTINF:-1,UK: QVC
-http://iptvmedia.live:8080/test-36cc9d/a59c/48643
+http://iptvmedia.live:8080/test-f289cf/4218/48643
 #EXTINF:-1,UK: QVC Beauty
-http://iptvmedia.live:8080/test-36cc9d/a59c/48644
+http://iptvmedia.live:8080/test-f289cf/4218/48644
 #EXTINF:-1,UK: QVC Extra
-http://iptvmedia.live:8080/test-36cc9d/a59c/48645
+http://iptvmedia.live:8080/test-f289cf/4218/48645
 #EXTINF:-1,UK: QVC Style
-http://iptvmedia.live:8080/test-36cc9d/a59c/48646
+http://iptvmedia.live:8080/test-f289cf/4218/48646
 #EXTINF:-1,UK: QVC UK +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/166009
+http://iptvmedia.live:8080/test-f289cf/4218/166009
 #EXTINF:-1,UK: Racing FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/741
+http://iptvmedia.live:8080/test-f289cf/4218/741
 #EXTINF:-1,UK: Rangers TV HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/71052
+http://iptvmedia.live:8080/test-f289cf/4218/71052
 #EXTINF:-1,UK: Rap Music HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/196388
+http://iptvmedia.live:8080/test-f289cf/4218/196388
 #EXTINF:-1,UK Rap Music HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221511
+http://iptvmedia.live:8080/test-f289cf/4218/221511
 #EXTINF:-1,UK: Real Lives HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/742
+http://iptvmedia.live:8080/test-f289cf/4218/742
 #EXTINF:-1,UK: Really FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1095
+http://iptvmedia.live:8080/test-f289cf/4218/1095
 #EXTINF:-1,UK: red bull HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/85429
+http://iptvmedia.live:8080/test-f289cf/4218/85429
 #EXTINF:-1,UK: Revelation
-http://iptvmedia.live:8080/test-36cc9d/a59c/157285
+http://iptvmedia.live:8080/test-f289cf/4218/157285
 #EXTINF:-1,UK: RHYMES
-http://iptvmedia.live:8080/test-36cc9d/a59c/195562
+http://iptvmedia.live:8080/test-f289cf/4218/195562
 #EXTINF:-1,UK: Rishtey
-http://iptvmedia.live:8080/test-36cc9d/a59c/25906
+http://iptvmedia.live:8080/test-f289cf/4218/25906
 #EXTINF:-1,UK: Rishtey Cineplex
-http://iptvmedia.live:8080/test-36cc9d/a59c/174174
+http://iptvmedia.live:8080/test-f289cf/4218/174174
 #EXTINF:-1,UK: ROK
-http://iptvmedia.live:8080/test-36cc9d/a59c/171943
+http://iptvmedia.live:8080/test-f289cf/4218/171943
 #EXTINF:-1,UK: RT
-http://iptvmedia.live:8080/test-36cc9d/a59c/174177
+http://iptvmedia.live:8080/test-f289cf/4218/174177
 #EXTINF:-1,UK: RT NEWS
-http://iptvmedia.live:8080/test-36cc9d/a59c/48883
+http://iptvmedia.live:8080/test-f289cf/4218/48883
 #EXTINF:-1,UK: RT News Now
-http://iptvmedia.live:8080/test-36cc9d/a59c/63186
+http://iptvmedia.live:8080/test-f289cf/4218/63186
 #EXTINF:-1,UK: RTE 2 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/688
+http://iptvmedia.live:8080/test-f289cf/4218/688
 #EXTINF:-1,UK: RTE News FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4774
+http://iptvmedia.live:8080/test-f289cf/4218/4774
 #EXTINF:-1,UK: RTE NEWS NOW
-http://iptvmedia.live:8080/test-36cc9d/a59c/200995
+http://iptvmedia.live:8080/test-f289cf/4218/200995
 #EXTINF:-1,UK: RTE ONE HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/687
+http://iptvmedia.live:8080/test-f289cf/4218/687
 #EXTINF:-1,UK: RTÉ JR HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1545
+http://iptvmedia.live:8080/test-f289cf/4218/1545
 #EXTINF:-1,UK: RUSSIA TODAY NEWS
-http://iptvmedia.live:8080/test-36cc9d/a59c/196390
+http://iptvmedia.live:8080/test-f289cf/4218/196390
 #EXTINF:-1,UK: S4C FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4775
+http://iptvmedia.live:8080/test-f289cf/4218/4775
 #EXTINF:-1,UK: Sab TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/61805
+http://iptvmedia.live:8080/test-f289cf/4218/61805
 #EXTINF:-1,UK: Sangat
-http://iptvmedia.live:8080/test-36cc9d/a59c/173166
+http://iptvmedia.live:8080/test-f289cf/4218/173166
 #EXTINF:-1,UK: SET Max
-http://iptvmedia.live:8080/test-36cc9d/a59c/174175
+http://iptvmedia.live:8080/test-f289cf/4218/174175
 #EXTINF:-1,UK: Setanta Sports
-http://iptvmedia.live:8080/test-36cc9d/a59c/70109
+http://iptvmedia.live:8080/test-f289cf/4218/70109
 #EXTINF:-1,UK: Showcase
-http://iptvmedia.live:8080/test-36cc9d/a59c/157271
+http://iptvmedia.live:8080/test-f289cf/4218/157271
 #EXTINF:-1,UK: Sky 1 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1080
+http://iptvmedia.live:8080/test-f289cf/4218/1080
 #EXTINF:-1,UK: Sky 2 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1074
+http://iptvmedia.live:8080/test-f289cf/4218/1074
 #EXTINF:-1,UK: Sky Action & Adventure HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/48407
+http://iptvmedia.live:8080/test-f289cf/4218/48407
 #EXTINF:-1,UK: Sky Action HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4836
+http://iptvmedia.live:8080/test-f289cf/4218/4836
 #EXTINF:-1,UK: Sky Arts 1
-http://iptvmedia.live:8080/test-36cc9d/a59c/4822
+http://iptvmedia.live:8080/test-f289cf/4218/4822
 #EXTINF:-1,UK: Sky Arts FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1094
+http://iptvmedia.live:8080/test-f289cf/4218/1094
 #EXTINF:-1,UK: Sky Atlantic FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1093
+http://iptvmedia.live:8080/test-f289cf/4218/1093
 #EXTINF:-1,UK: Sky Box Nation
-http://iptvmedia.live:8080/test-36cc9d/a59c/174601
+http://iptvmedia.live:8080/test-f289cf/4218/174601
 #EXTINF:-1,UK: SKY CIMEMA ACTION
-http://iptvmedia.live:8080/test-36cc9d/a59c/15937
+http://iptvmedia.live:8080/test-f289cf/4218/15937
 #EXTINF:-1,UK: Sky Cinema Action & Adventure FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1092
+http://iptvmedia.live:8080/test-f289cf/4218/1092
 #EXTINF:-1,UK: Sky Cinema Action FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/199062
+http://iptvmedia.live:8080/test-f289cf/4218/199062
 #EXTINF:-1,UK: Sky Cinema Atlantic
-http://iptvmedia.live:8080/test-36cc9d/a59c/157404
+http://iptvmedia.live:8080/test-f289cf/4218/157404
 #EXTINF:-1,UK: Sky Cinema Cinemaeats HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/196387
+http://iptvmedia.live:8080/test-f289cf/4218/196387
 #EXTINF:-1,UK: Sky Cinema Comedy FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1091
+http://iptvmedia.live:8080/test-f289cf/4218/1091
 #EXTINF:-1,UK: Sky Cinema Crime
-http://iptvmedia.live:8080/test-36cc9d/a59c/84900
+http://iptvmedia.live:8080/test-f289cf/4218/84900
 #EXTINF:-1,UK: Sky Cinema Crime & Thriller FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4697
+http://iptvmedia.live:8080/test-f289cf/4218/4697
 #EXTINF:-1,UK: Sky Cinema Disney FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1090
+http://iptvmedia.live:8080/test-f289cf/4218/1090
 #EXTINF:-1,UK Sky Cinema Disney FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221209
+http://iptvmedia.live:8080/test-f289cf/4218/221209
 #EXTINF:-1,UK: Sky Cinema Drama FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1089
+http://iptvmedia.live:8080/test-f289cf/4218/1089
 #EXTINF:-1,UK: Sky Cinema Family FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/727
+http://iptvmedia.live:8080/test-f289cf/4218/727
 #EXTINF:-1,UK: Sky Cinema Grates
-http://iptvmedia.live:8080/test-36cc9d/a59c/173114
+http://iptvmedia.live:8080/test-f289cf/4218/173114
 #EXTINF:-1,UK: Sky Cinema Great FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1087
+http://iptvmedia.live:8080/test-f289cf/4218/1087
 #EXTINF:-1,UK: Sky Cinema Hits HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1086
+http://iptvmedia.live:8080/test-f289cf/4218/1086
 #EXTINF:-1,UK: Sky Cinema MODERN GREATS HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/148197
+http://iptvmedia.live:8080/test-f289cf/4218/148197
 #EXTINF:-1,UK: Sky Cinema Modern HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/158464
+http://iptvmedia.live:8080/test-f289cf/4218/158464
 #EXTINF:-1,UK: Sky Cinema Premiere FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1085
+http://iptvmedia.live:8080/test-f289cf/4218/1085
 #EXTINF:-1,UK: Sky Cinema sci-fi
-http://iptvmedia.live:8080/test-36cc9d/a59c/79413
+http://iptvmedia.live:8080/test-f289cf/4218/79413
 #EXTINF:-1,UK: Sky Cinema sci-fi & Horror FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/725
+http://iptvmedia.live:8080/test-f289cf/4218/725
 #EXTINF:-1,UK: Sky Cinema Select FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/726
+http://iptvmedia.live:8080/test-f289cf/4218/726
 #EXTINF:-1,UK: Sky Cinema Showcase HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/17041
+http://iptvmedia.live:8080/test-f289cf/4218/17041
 #EXTINF:-1,UK: Sky Cinema Si-Fi Horror
-http://iptvmedia.live:8080/test-36cc9d/a59c/201205
+http://iptvmedia.live:8080/test-f289cf/4218/201205
 #EXTINF:-1,UK: Sky Cinema Superhero FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/85443
+http://iptvmedia.live:8080/test-f289cf/4218/85443
 #EXTINF:-1,UK: Sky Cinema Thriller FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1082
+http://iptvmedia.live:8080/test-f289cf/4218/1082
 #EXTINF:-1,UK: Sky Cinema Witness
-http://iptvmedia.live:8080/test-36cc9d/a59c/36950
+http://iptvmedia.live:8080/test-f289cf/4218/36950
 #EXTINF:-1,UK: Sky Cinemaeats
-http://iptvmedia.live:8080/test-36cc9d/a59c/122201
+http://iptvmedia.live:8080/test-f289cf/4218/122201
 #EXTINF:-1,UK: Sky Comedy FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4837
+http://iptvmedia.live:8080/test-f289cf/4218/4837
 #EXTINF:-1,UK: Sky Crime FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/15155
+http://iptvmedia.live:8080/test-f289cf/4218/15155
 #EXTINF:-1,UK: Sky Crime Thriller
-http://iptvmedia.live:8080/test-36cc9d/a59c/174449
+http://iptvmedia.live:8080/test-f289cf/4218/174449
 #EXTINF:-1,UK: Sky Discovery Science
-http://iptvmedia.live:8080/test-36cc9d/a59c/74428
+http://iptvmedia.live:8080/test-f289cf/4218/74428
 #EXTINF:-1,UK Sky Discovery Science
-http://iptvmedia.live:8080/test-36cc9d/a59c/220505
+http://iptvmedia.live:8080/test-f289cf/4218/220505
 #EXTINF:-1,UK: SKY Disney HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/67091
+http://iptvmedia.live:8080/test-f289cf/4218/67091
 #EXTINF:-1,UK SKY Disney HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221272
+http://iptvmedia.live:8080/test-f289cf/4218/221272
 #EXTINF:-1,UK: SKY DRAMA HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/12526
+http://iptvmedia.live:8080/test-f289cf/4218/12526
 #EXTINF:-1,UK: Sky Drama Movies
-http://iptvmedia.live:8080/test-36cc9d/a59c/10613
+http://iptvmedia.live:8080/test-f289cf/4218/10613
 #EXTINF:-1,UK: Sky Drama Romance
-http://iptvmedia.live:8080/test-36cc9d/a59c/28021
+http://iptvmedia.live:8080/test-f289cf/4218/28021
 #EXTINF:-1,UK: Sky Family HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/7984
+http://iptvmedia.live:8080/test-f289cf/4218/7984
 #EXTINF:-1,UK: Sky Good Food
-http://iptvmedia.live:8080/test-36cc9d/a59c/158467
+http://iptvmedia.live:8080/test-f289cf/4218/158467
 #EXTINF:-1,UK: SKY GREATS HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/32229
+http://iptvmedia.live:8080/test-f289cf/4218/32229
 #EXTINF:-1,UK: Sky History HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/187342
+http://iptvmedia.live:8080/test-f289cf/4218/187342
 #EXTINF:-1,UK: Sky Hits HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/38895
+http://iptvmedia.live:8080/test-f289cf/4218/38895
 #EXTINF:-1,UK: Sky Living HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/715
+http://iptvmedia.live:8080/test-f289cf/4218/715
 #EXTINF:-1,UK: Sky Modern Greats HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/48415
+http://iptvmedia.live:8080/test-f289cf/4218/48415
 #EXTINF:-1,UK: Sky MUTV FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/201206
+http://iptvmedia.live:8080/test-f289cf/4218/201206
 #EXTINF:-1,UK: Sky News FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1081
+http://iptvmedia.live:8080/test-f289cf/4218/1081
 #EXTINF:-1,UK: SKY PRE ORDER 1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/187615
+http://iptvmedia.live:8080/test-f289cf/4218/187615
 #EXTINF:-1,UK: SKY PRE ORDER KIDS HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/187616
+http://iptvmedia.live:8080/test-f289cf/4218/187616
 #EXTINF:-1,UK: Sky Premier
-http://iptvmedia.live:8080/test-36cc9d/a59c/32228
+http://iptvmedia.live:8080/test-f289cf/4218/32228
 #EXTINF:-1,UK: Sky sci-fi & Horror
-http://iptvmedia.live:8080/test-36cc9d/a59c/171941
+http://iptvmedia.live:8080/test-f289cf/4218/171941
 #EXTINF:-1,UK: Sky Select HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/737
+http://iptvmedia.live:8080/test-f289cf/4218/737
 #EXTINF:-1,UK: Sky Show Case
-http://iptvmedia.live:8080/test-36cc9d/a59c/36616
+http://iptvmedia.live:8080/test-f289cf/4218/36616
 #EXTINF:-1,UK: SKY SP ARENA HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/81124
+http://iptvmedia.live:8080/test-f289cf/4218/81124
 #EXTINF:-1,UK: SKY SP FOOTBALL HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/192624
+http://iptvmedia.live:8080/test-f289cf/4218/192624
 #EXTINF:-1,UK: Sky Sports Action FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/268
+http://iptvmedia.live:8080/test-f289cf/4218/268
 #EXTINF:-1,UK: Sky Sports Arena FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/267
+http://iptvmedia.live:8080/test-f289cf/4218/267
 #EXTINF:-1,UK Sky Sports Arena FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220157
+http://iptvmedia.live:8080/test-f289cf/4218/220157
 #EXTINF:-1,UK: Sky Sports Cricket FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/145801
+http://iptvmedia.live:8080/test-f289cf/4218/145801
 #EXTINF:-1,UK Sky Sports Cricket FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220168
+http://iptvmedia.live:8080/test-f289cf/4218/220168
 #EXTINF:-1,UK: Sky Sports F1 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/5727
+http://iptvmedia.live:8080/test-f289cf/4218/5727
 #EXTINF:-1,UK Sky Sports F1 FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220161
+http://iptvmedia.live:8080/test-f289cf/4218/220161
 #EXTINF:-1,UK: Sky Sports Football FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/145799
+http://iptvmedia.live:8080/test-f289cf/4218/145799
 #EXTINF:-1,UK Sky Sports Football FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220167
+http://iptvmedia.live:8080/test-f289cf/4218/220167
 #EXTINF:-1,UK: Sky Sports Golf FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/745
+http://iptvmedia.live:8080/test-f289cf/4218/745
 #EXTINF:-1,UK Sky Sports Golf FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220160
+http://iptvmedia.live:8080/test-f289cf/4218/220160
 #EXTINF:-1,UK: Sky Sports Main Event FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/698
+http://iptvmedia.live:8080/test-f289cf/4218/698
 #EXTINF:-1,UK Sky Sports Main Event HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/37180
+http://iptvmedia.live:8080/test-f289cf/4218/37180
 #EXTINF:-1,UK: Sky Sports Mix FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/145798
+http://iptvmedia.live:8080/test-f289cf/4218/145798
 #EXTINF:-1,UK Sky Sports Mix FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220166
+http://iptvmedia.live:8080/test-f289cf/4218/220166
 #EXTINF:-1,UK: Sky Sports News FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/145795
+http://iptvmedia.live:8080/test-f289cf/4218/145795
 #EXTINF:-1,UK Sky Sports News FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220164
+http://iptvmedia.live:8080/test-f289cf/4218/220164
 #EXTINF:-1,UK: Sky Sports Premier League FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/145796
+http://iptvmedia.live:8080/test-f289cf/4218/145796
 #EXTINF:-1,UK Sky Sports Premier League FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220165
+http://iptvmedia.live:8080/test-f289cf/4218/220165
 #EXTINF:-1,UK: Sky Sports Racing FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/145802
+http://iptvmedia.live:8080/test-f289cf/4218/145802
 #EXTINF:-1,UK Sky Sports Racing FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220169
+http://iptvmedia.live:8080/test-f289cf/4218/220169
 #EXTINF:-1,UK: Sky Sports Action HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/700
+http://iptvmedia.live:8080/test-f289cf/4218/700
 #EXTINF:-1,UK: Sky Sports Arena HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/743
+http://iptvmedia.live:8080/test-f289cf/4218/743
 #EXTINF:-1,UK Sky Sports Arena HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/37175
+http://iptvmedia.live:8080/test-f289cf/4218/37175
 #EXTINF:-1,UK: Sky Sports Box Office HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/151119
+http://iptvmedia.live:8080/test-f289cf/4218/151119
 #EXTINF:-1,UK Sky Sports Box Office HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220170
+http://iptvmedia.live:8080/test-f289cf/4218/220170
 #EXTINF:-1,UK: Sky Sports Cricket HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/269
+http://iptvmedia.live:8080/test-f289cf/4218/269
 #EXTINF:-1,UK Sky Sports Cricket HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220159
+http://iptvmedia.live:8080/test-f289cf/4218/220159
 #EXTINF:-1,UK: Sky Sports F1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/265
+http://iptvmedia.live:8080/test-f289cf/4218/265
 #EXTINF:-1,UK Sky Sports F1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/37177
+http://iptvmedia.live:8080/test-f289cf/4218/37177
 #EXTINF:-1,UK: Sky Sports Football HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/266
+http://iptvmedia.live:8080/test-f289cf/4218/266
 #EXTINF:-1,UK Sky Sports Football HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/37178
+http://iptvmedia.live:8080/test-f289cf/4218/37178
 #EXTINF:-1,UK: Sky Sports Golf HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/264
+http://iptvmedia.live:8080/test-f289cf/4218/264
 #EXTINF:-1,UK Sky Sports Golf HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/37179
+http://iptvmedia.live:8080/test-f289cf/4218/37179
 #EXTINF:-1,UK: Sky Sports Main Event HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/169975
+http://iptvmedia.live:8080/test-f289cf/4218/169975
 #EXTINF:-1,UK Sky Sports Main Event HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220171
+http://iptvmedia.live:8080/test-f289cf/4218/220171
 #EXTINF:-1,UK: Sky Sports Mix HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/261
+http://iptvmedia.live:8080/test-f289cf/4218/261
 #EXTINF:-1,UK Sky Sports Mix HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/37181
+http://iptvmedia.live:8080/test-f289cf/4218/37181
 #EXTINF:-1,UK: Sky Sports News HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/260
+http://iptvmedia.live:8080/test-f289cf/4218/260
 #EXTINF:-1,UK Sky Sports News HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220155
+http://iptvmedia.live:8080/test-f289cf/4218/220155
 #EXTINF:-1,UK: Sky Sports NFL HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/260361
+http://iptvmedia.live:8080/test-f289cf/4218/260361
 #EXTINF:-1,UK: Sky Sports Premier Langue HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/263
+http://iptvmedia.live:8080/test-f289cf/4218/263
 #EXTINF:-1,UK Sky Sports Premier Langue HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220156
+http://iptvmedia.live:8080/test-f289cf/4218/220156
 #EXTINF:-1,UK: Sky Sports Premier League HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/71055
+http://iptvmedia.live:8080/test-f289cf/4218/71055
 #EXTINF:-1,UK Sky Sports Premier League HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220163
+http://iptvmedia.live:8080/test-f289cf/4218/220163
 #EXTINF:-1,UK: Sky Sports Racing HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1605
+http://iptvmedia.live:8080/test-f289cf/4218/1605
 #EXTINF:-1,UK Sky Sports Racing HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/37182
+http://iptvmedia.live:8080/test-f289cf/4218/37182
 #EXTINF:-1,UK: Sky Store 1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/165921
+http://iptvmedia.live:8080/test-f289cf/4218/165921
 #EXTINF:-1,UK: Sky Store 2 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/165922
+http://iptvmedia.live:8080/test-f289cf/4218/165922
 #EXTINF:-1,UK: SKY Store 3 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/165929
+http://iptvmedia.live:8080/test-f289cf/4218/165929
 #EXTINF:-1,UK: SKY Store 4 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/165926
+http://iptvmedia.live:8080/test-f289cf/4218/165926
 #EXTINF:-1,UK: SKY Store 5 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/165927
+http://iptvmedia.live:8080/test-f289cf/4218/165927
 #EXTINF:-1,UK: Sky Store Pre Order 1
-http://iptvmedia.live:8080/test-36cc9d/a59c/192861
+http://iptvmedia.live:8080/test-f289cf/4218/192861
 #EXTINF:-1,UK: Sky Store Pre Order Kids
-http://iptvmedia.live:8080/test-36cc9d/a59c/192863
+http://iptvmedia.live:8080/test-f289cf/4218/192863
 #EXTINF:-1,UK: Sky Witness FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11738
+http://iptvmedia.live:8080/test-f289cf/4218/11738
 #EXTINF:-1,UK: Sky1 +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/74375
+http://iptvmedia.live:8080/test-f289cf/4218/74375
 #EXTINF:-1,UK: SKYS PORTS FOOTBALL
-http://iptvmedia.live:8080/test-36cc9d/a59c/158511
+http://iptvmedia.live:8080/test-f289cf/4218/158511
 #EXTINF:-1,UK: SOCCER PLUS
-http://iptvmedia.live:8080/test-36cc9d/a59c/227104
+http://iptvmedia.live:8080/test-f289cf/4218/227104
 #EXTINF:-1,UK: SonLife
-http://iptvmedia.live:8080/test-36cc9d/a59c/157287
+http://iptvmedia.live:8080/test-f289cf/4218/157287
 #EXTINF:-1,UK: Spike HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/48659
+http://iptvmedia.live:8080/test-f289cf/4218/48659
 #EXTINF:-1,UK: SPORTS ACTION
-http://iptvmedia.live:8080/test-36cc9d/a59c/158510
+http://iptvmedia.live:8080/test-f289cf/4218/158510
 #EXTINF:-1,UK: Spotlight TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/157288
+http://iptvmedia.live:8080/test-f289cf/4218/157288
 #EXTINF:-1,UK: Star Bharat
-http://iptvmedia.live:8080/test-36cc9d/a59c/70816
+http://iptvmedia.live:8080/test-f289cf/4218/70816
 #EXTINF:-1,UK: Star Gold
-http://iptvmedia.live:8080/test-36cc9d/a59c/65410
+http://iptvmedia.live:8080/test-f289cf/4218/65410
 #EXTINF:-1,UK: Star Jalsha
-http://iptvmedia.live:8080/test-36cc9d/a59c/65409
+http://iptvmedia.live:8080/test-f289cf/4218/65409
 #EXTINF:-1,UK: Star Plus FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/16091
+http://iptvmedia.live:8080/test-f289cf/4218/16091
 #EXTINF:-1,UK: Starz TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/4743
+http://iptvmedia.live:8080/test-f289cf/4218/4743
 #EXTINF:-1,UK: STV HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/192776
+http://iptvmedia.live:8080/test-f289cf/4218/192776
 #EXTINF:-1,UK: SYFY +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/74393
+http://iptvmedia.live:8080/test-f289cf/4218/74393
 #EXTINF:-1,UK: SYFY FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1068
+http://iptvmedia.live:8080/test-f289cf/4218/1068
 #EXTINF:-1,UK: Talking Pictures HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4710
+http://iptvmedia.live:8080/test-f289cf/4218/4710
 #EXTINF:-1,UK: TBN
-http://iptvmedia.live:8080/test-36cc9d/a59c/157286
+http://iptvmedia.live:8080/test-f289cf/4218/157286
 #EXTINF:-1,UK: TCM FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4711
+http://iptvmedia.live:8080/test-f289cf/4218/4711
 #EXTINF:-1,UK: TCM Movies HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/173184
+http://iptvmedia.live:8080/test-f289cf/4218/173184
 #EXTINF:-1,UK: TG4 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11572
+http://iptvmedia.live:8080/test-f289cf/4218/11572
 #EXTINF:-1,UK: The Box
-http://iptvmedia.live:8080/test-36cc9d/a59c/4740
+http://iptvmedia.live:8080/test-f289cf/4218/4740
 #EXTINF:-1,UK: The Races
-http://iptvmedia.live:8080/test-36cc9d/a59c/65547
+http://iptvmedia.live:8080/test-f289cf/4218/65547
 #EXTINF:-1,UK: Tiny Pop +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/9805
+http://iptvmedia.live:8080/test-f289cf/4218/9805
 #EXTINF:-1,UK: Tiny Pop HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4755
+http://iptvmedia.live:8080/test-f289cf/4218/4755
 #EXTINF:-1,UK: TLC FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1067
+http://iptvmedia.live:8080/test-f289cf/4218/1067
 #EXTINF:-1,UK: TLC IRELAND
-http://iptvmedia.live:8080/test-36cc9d/a59c/74401
+http://iptvmedia.live:8080/test-f289cf/4218/74401
 #EXTINF:-1,UK: Tom & Jerry
-http://iptvmedia.live:8080/test-36cc9d/a59c/63231
+http://iptvmedia.live:8080/test-f289cf/4218/63231
 #EXTINF:-1,UK: TRACE URBAN
-http://iptvmedia.live:8080/test-36cc9d/a59c/174178
+http://iptvmedia.live:8080/test-f289cf/4218/174178
 #EXTINF:-1,UK: Travel Channel FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1066
+http://iptvmedia.live:8080/test-f289cf/4218/1066
 #EXTINF:-1,UK Travel Channel FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221046
+http://iptvmedia.live:8080/test-f289cf/4218/221046
 #EXTINF:-1,UK: Travel XP HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/157273
+http://iptvmedia.live:8080/test-f289cf/4218/157273
 #EXTINF:-1,UK Travel XP HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221074
+http://iptvmedia.live:8080/test-f289cf/4218/221074
 #EXTINF:-1,UK: TRT World HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/165912
+http://iptvmedia.live:8080/test-f289cf/4218/165912
 #EXTINF:-1,UK: Tru TV HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/21534
+http://iptvmedia.live:8080/test-f289cf/4218/21534
 #EXTINF:-1,UK: True Ent
-http://iptvmedia.live:8080/test-36cc9d/a59c/65405
+http://iptvmedia.live:8080/test-f289cf/4218/65405
 #EXTINF:-1,UK: True Entertainment
-http://iptvmedia.live:8080/test-36cc9d/a59c/4644
+http://iptvmedia.live:8080/test-f289cf/4218/4644
 #EXTINF:-1,UK: True Movies +1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/148200
+http://iptvmedia.live:8080/test-f289cf/4218/148200
 #EXTINF:-1,UK: True Movies 1
-http://iptvmedia.live:8080/test-36cc9d/a59c/4820
+http://iptvmedia.live:8080/test-f289cf/4218/4820
 #EXTINF:-1,UK: True Movies 2
-http://iptvmedia.live:8080/test-36cc9d/a59c/7994
+http://iptvmedia.live:8080/test-f289cf/4218/7994
 #EXTINF:-1,UK: True Movies HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/182454
+http://iptvmedia.live:8080/test-f289cf/4218/182454
 #EXTINF:-1,UK: TV 3 Ireland
-http://iptvmedia.live:8080/test-36cc9d/a59c/182532
+http://iptvmedia.live:8080/test-f289cf/4218/182532
 #EXTINF:-1,UK: TV 5
-http://iptvmedia.live:8080/test-36cc9d/a59c/65404
+http://iptvmedia.live:8080/test-f289cf/4218/65404
 #EXTINF:-1,UK: TV One HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/121145
+http://iptvmedia.live:8080/test-f289cf/4218/121145
 #EXTINF:-1,UK: TV3
-http://iptvmedia.live:8080/test-36cc9d/a59c/7995
+http://iptvmedia.live:8080/test-f289cf/4218/7995
 #EXTINF:-1,UK: TV3 IR HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/198178
+http://iptvmedia.live:8080/test-f289cf/4218/198178
 #EXTINF:-1,UK: TVC News
-http://iptvmedia.live:8080/test-36cc9d/a59c/165911
+http://iptvmedia.live:8080/test-f289cf/4218/165911
 #EXTINF:-1,UK: TVP 3 Łódź
-http://iptvmedia.live:8080/test-36cc9d/a59c/122190
+http://iptvmedia.live:8080/test-f289cf/4218/122190
 #EXTINF:-1,UK: TWO
-http://iptvmedia.live:8080/test-36cc9d/a59c/225238
+http://iptvmedia.live:8080/test-f289cf/4218/225238
 #EXTINF:-1,UK: UFC FIGHT night Pass HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11487
+http://iptvmedia.live:8080/test-f289cf/4218/11487
 #EXTINF:-1,UK: UFC FIGHT Pass HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/165917
+http://iptvmedia.live:8080/test-f289cf/4218/165917
 #EXTINF:-1,UK UFC FIGHT Pass HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/220258
+http://iptvmedia.live:8080/test-f289cf/4218/220258
 #EXTINF:-1,UK: UFC NIGHT PASS
-http://iptvmedia.live:8080/test-36cc9d/a59c/197670
+http://iptvmedia.live:8080/test-f289cf/4218/197670
 #EXTINF:-1,UK: Universal Channel HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4649
+http://iptvmedia.live:8080/test-f289cf/4218/4649
 #EXTINF:-1,UK: Univision Deportes
-http://iptvmedia.live:8080/test-36cc9d/a59c/201213
+http://iptvmedia.live:8080/test-f289cf/4218/201213
 #EXTINF:-1,UK: UTV FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/16105
+http://iptvmedia.live:8080/test-f289cf/4218/16105
 #EXTINF:-1,UK: UTV Ireland
-http://iptvmedia.live:8080/test-36cc9d/a59c/11571
+http://iptvmedia.live:8080/test-f289cf/4218/11571
 #EXTINF:-1,UK: V2BEAT TV
-http://iptvmedia.live:8080/test-36cc9d/a59c/165366
+http://iptvmedia.live:8080/test-f289cf/4218/165366
 #EXTINF:-1,UK: VENUS
-http://iptvmedia.live:8080/test-36cc9d/a59c/174179
+http://iptvmedia.live:8080/test-f289cf/4218/174179
 #EXTINF:-1,UK: VH1
-http://iptvmedia.live:8080/test-36cc9d/a59c/4730
+http://iptvmedia.live:8080/test-f289cf/4218/4730
 #EXTINF:-1,UK VH1
-http://iptvmedia.live:8080/test-36cc9d/a59c/221762
+http://iptvmedia.live:8080/test-f289cf/4218/221762
 #EXTINF:-1,UK: VH1 Classic HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4832
+http://iptvmedia.live:8080/test-f289cf/4218/4832
 #EXTINF:-1,UK VH1 Classic HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/221763
+http://iptvmedia.live:8080/test-f289cf/4218/221763
 #EXTINF:-1,UK: VH1 Classis
-http://iptvmedia.live:8080/test-36cc9d/a59c/199063
+http://iptvmedia.live:8080/test-f289cf/4218/199063
 #EXTINF:-1,UK VH1 Classis
-http://iptvmedia.live:8080/test-36cc9d/a59c/221793
+http://iptvmedia.live:8080/test-f289cf/4218/221793
 #EXTINF:-1,UK: Viceland HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11452
+http://iptvmedia.live:8080/test-f289cf/4218/11452
 #EXTINF:-1,UK: Virgin Media 1 HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/122200
+http://iptvmedia.live:8080/test-f289cf/4218/122200
 #EXTINF:-1,UK: Virgin Media Three HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/17171
+http://iptvmedia.live:8080/test-f289cf/4218/17171
 #EXTINF:-1,UK: Virgin Media Two
-http://iptvmedia.live:8080/test-36cc9d/a59c/85441
+http://iptvmedia.live:8080/test-f289cf/4218/85441
 #EXTINF:-1,UK: Virgin Two
-http://iptvmedia.live:8080/test-36cc9d/a59c/146670
+http://iptvmedia.live:8080/test-f289cf/4218/146670
 #EXTINF:-1,UK: VIVA
-http://iptvmedia.live:8080/test-36cc9d/a59c/11745
+http://iptvmedia.live:8080/test-f289cf/4218/11745
 #EXTINF:-1,UK: W 1
-http://iptvmedia.live:8080/test-36cc9d/a59c/11746
+http://iptvmedia.live:8080/test-f289cf/4218/11746
 #EXTINF:-1,UK: W HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11448
+http://iptvmedia.live:8080/test-f289cf/4218/11448
 #EXTINF:-1,UK: Watch FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/4639
+http://iptvmedia.live:8080/test-f289cf/4218/4639
 #EXTINF:-1,UK: WWE Channel HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/11484
+http://iptvmedia.live:8080/test-f289cf/4218/11484
 #EXTINF:-1,UK: WWE Network FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/22953
+http://iptvmedia.live:8080/test-f289cf/4218/22953
 #EXTINF:-1,UK: WWE PPV
-http://iptvmedia.live:8080/test-36cc9d/a59c/192859
+http://iptvmedia.live:8080/test-f289cf/4218/192859
 #EXTINF:-1,UK: WWE Raw Network
-http://iptvmedia.live:8080/test-36cc9d/a59c/48748
+http://iptvmedia.live:8080/test-f289cf/4218/48748
 #EXTINF:-1,UK: WWE Superslam
-http://iptvmedia.live:8080/test-36cc9d/a59c/201119
+http://iptvmedia.live:8080/test-f289cf/4218/201119
 #EXTINF:-1,UK: YESTERDAY +1
-http://iptvmedia.live:8080/test-36cc9d/a59c/163398
+http://iptvmedia.live:8080/test-f289cf/4218/163398
 #EXTINF:-1,UK: Yesterday HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/1065
+http://iptvmedia.live:8080/test-f289cf/4218/1065
 #EXTINF:-1,UK: Zee Cinema
-http://iptvmedia.live:8080/test-36cc9d/a59c/76882
+http://iptvmedia.live:8080/test-f289cf/4218/76882
 #EXTINF:-1,UK: Zing HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/173160
+http://iptvmedia.live:8080/test-f289cf/4218/173160
 
 
 
@@ -3079,17 +3079,17 @@ http://myislandtv.xyz:8080/ears/eadf/50923
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="UK IN INDIA  LINE",UK : star bharat
 
-http://iptvmedia.live:8080/test-36cc9d/a59c/70816
+http://iptvmedia.live:8080/test-f289cf/4218/70816
 #EXTINF:-1,UK: Star Gold
-http://iptvmedia.live:8080/test-36cc9d/a59c/65410
+http://iptvmedia.live:8080/test-f289cf/4218/65410
 #EXTINF:-1,UK: Star Jalsha
-http://iptvmedia.live:8080/test-36cc9d/a59c/65409
+http://iptvmedia.live:8080/test-f289cf/4218/65409
 #EXTINF:-1,UK: Star Plus FHD
-http://iptvmedia.live:8080/test-36cc9d/a59c/16091
+http://iptvmedia.live:8080/test-f289cf/4218/16091
 #EXTINF:-1,UK: Zee Cinema
-http://iptvmedia.live:8080/test-36cc9d/a59c/76882
+http://iptvmedia.live:8080/test-f289cf/4218/76882
 #EXTINF:-1,UK: Zing HD
-http://iptvmedia.live:8080/test-36cc9d/a59c/173160
+http://iptvmedia.live:8080/test-f289cf/4218/173160
 
 
 
